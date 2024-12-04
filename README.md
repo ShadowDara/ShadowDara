@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I never watched something on Netflix
 
-I really need to update this File lol
+- **I really need to update this File lol**
 
 <!---
 ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
