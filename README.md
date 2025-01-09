@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code and design my own games
 - 💞️ I’m looking to collaborate on my style XD
-- 📫 How to reach me: send me a message via [Bluesky](https://bsky.app/profile/shadowdara.bsky.social) | @shadowdara
+- 📫 How to reach me: send me a message via [Reddit - u/blackknight5027](https://reddit.com/u/blackknight5027) | Yeah, it's my old old Reddit acc, sadly you can't rename them :((
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I never watched something on Netflix
 
