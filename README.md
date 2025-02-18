@@ -8,9 +8,9 @@
 
 - **I really need to update this File lol**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=radical))]
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&theme=radical)]
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&theme=radical)
 
 <!---
 ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
