@@ -18,6 +18,16 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&theme=radical)
 
+<!-- 
+
+![Top Time](https://github-readme-stats.vercel.app/api/wakatime?username=Shadowdara&theme=radical)
+
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=radical)
+
+
+
 - btw I am trying to collect some [Tech Tipps](https://github.com/ShadowDara/Tech-Stuff) in this other Repository, maybe check out, if you are interrested. Some of them are helpful!!!
 
 - and here is my [Github Webiste](https://shadowdara.github.io)
