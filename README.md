@@ -37,8 +37,8 @@ You can click the Preview link to take a look at your changes.
 ### Repository Stats
 
 - All: **50**
-- Public: **17**
-- Private: **33**
+- Public: **19**
+- Private: **31**
 
 <!--
 
