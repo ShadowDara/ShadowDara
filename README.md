@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=radical&langs_count=20)
 
 
 
@@ -34,10 +34,10 @@ You can click the Preview link to take a look at your changes.
 
 ### Repository Stats
 
-- All: **49**
-- Public: **14**
-- Private: **35**
+- All: **50**
+- Public: **16**
+- Private: **34**
 
 ---
 
-*Last updated this page on 06.03.2025*
+*Last updated this page on 07.03.2025*
