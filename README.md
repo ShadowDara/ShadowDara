@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me: send me a message via **Discord** | **Shadowdara**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I never watched something on Netflix
-- ✨ My favurite Programming language is tbh Python but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
+- ✨ My favurite Programming language is tbh **Python** but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
 
 - **I really need to update this File lol**
 
