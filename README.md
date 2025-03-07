@@ -32,11 +32,25 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+### [Some Tech Tricks](https://github.com/ShadowDara/Tech-Stuff)
+
+---
+
 ### Repository Stats
 
 - All: **50**
-- Public: **16**
-- Private: **34**
+- Public: **17**
+- Private: **33**
+
+<!--
+
+---
+
+Hey if you scrolled until here, you are maybe Interrested in my Projects!
+
+If you really are, click [here](overview.md)
+
+-->
 
 ---
 
