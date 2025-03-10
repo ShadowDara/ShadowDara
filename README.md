@@ -24,56 +24,12 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=radical&langs_count=20)
 
-- and here is my [Github Webiste](https://shadowdara.github.io)
-
 ---
+
+### [My Github Webiste](https://shadowdara.github.io)
 
 ### [Some Tech Tricks](https://github.com/ShadowDara/Tech-Stuff)
 
 - btw I am trying to collect some [Tech Tipps](https://github.com/ShadowDara/Tech-Stuff) in this other Repository, maybe check out, if you are interrested. Some of them are hopefully helpful!!!
 
----
-
-### Repository Stats
-
-- All: **50**
-- Public: **19**
-- Private: **31**
-
-<!--
-
----
-
-Hey if you scrolled until here, you are maybe Interrested in my Projects!
-
-If you really are, click [here](overview.md)
-
--->
-
----
-
-*Last updated this page on 07.03.2025*
-
-<!-- ------------------------------------------------------------------------------------------------------ -->
-
-<!--
-
-<details><summary><h2>More</h2></summary>
-<ul>
-  <li>Hallo</li>
-</ul>
-</details>
-
--->
-
-<!--
-
-# Overview
-
-This is an little overview about my Github Projects here
-
----
-
-*Last updated this page on 07.03.2025*
-
--->
+### [More about me](https://gist.github.com/ShadowDara/9de657754f6b3559e8b05c9edcac2d13)
