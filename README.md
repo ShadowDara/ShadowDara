@@ -3,7 +3,8 @@ ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Minecraft
+### Minecraft Projects
+
 - **I am a Minecraft Data-, Resource-Pack and Mod Creator**
 - If you have some ideas for projects or want to do abproject together/ask for help, **DM ME**
 - 📫 How to reach me:
