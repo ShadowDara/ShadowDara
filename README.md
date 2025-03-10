@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- 
 
-![Top Time](https://github-readme-stats.vercel.app/api/wakatime?username=Shadowdara&theme=radical)
+![Top Time](https://github-readme-stats.vercel.app/api/wakatime?username=Shadowdara&theme=radical&langs_count=20)
 
 -->
 
@@ -57,5 +57,17 @@ If you really are, click [here](overview.md)
 <!--
 
 <content><summary></summary></content>
+
+-->
+
+<!--
+
+# Overview
+
+This is an little overview about my Github Projects here
+
+---
+
+*Last updated this page on 07.03.2025*
 
 -->
