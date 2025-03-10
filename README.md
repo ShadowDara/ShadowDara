@@ -53,7 +53,7 @@ You can click the Preview link to take a look at your changes.
 
 --- 
 
-<details><summary><h3>More Spam!</h3></summary>
+<details><summary>More Spam!</summary>
 <h3>Repository Stats</h3>
 <hr><ul>
   <li>All: <b>50</b></li>
