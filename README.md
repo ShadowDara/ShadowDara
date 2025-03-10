@@ -5,13 +5,13 @@ You can click the Preview link to take a look at your changes.
 
 ### Minecraft Projects
 
-- **I am a Minecraft Data-, Resource-Pack and Mod Creator**
-- If you have some ideas for projects or want to do abproject together/ask for help, **DM ME**
+- 🌳 **I am a Minecraft Data-, Resource-Pack and Mod Creator**
+- 💡If you have some ideas for projects or want to do abproject together/ask for help, **DM ME**
 - 📫 How to reach me:
   - Discord: **Shadowdara**
   - Reddit: **[u/blackknight5027](https://reddit.com/u/blackknight5027)**
 
-#### [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
+#### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
 
 ---
 
