@@ -58,11 +58,11 @@ If you really are, click [here](overview.md)
 
 <!--
 
-<content>
-
-<summary>More</summary>
-ahdhw
-</content>
+<details><summary><h2>More</h2></summary>
+<ul>
+  <li>Hallo</li>
+</ul>
+</details>
 
 -->
 
