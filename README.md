@@ -34,6 +34,19 @@ You can click the Preview link to take a look at your changes.
 
 - btw I am trying to collect some [Tech Tipps](https://github.com/ShadowDara/Tech-Stuff) in this other Repository, maybe check out, if you are interrested. Some of them are hopefully helpful!!!
 
+---
+
 ### My Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=Discord-Package-Stats&theme=radical)](https://github.com/ShadowDara/Discord-Package-Stats)
+<a href="https://github.com/ShadowDara/Discord-Package-Stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=Discord-Package-Stats&theme=radical"></a>
+
+--- 
+
+<details><summary><h3>More Spam!</h3></summary>
+<h3>Repository Stats</h3>
+<hr><ul>
+  <li>All: <b>50</b></li>
+  <li>Public: <b>19</b></li>
+  <li>Private: <b>31</b></li>
+</ul>
+</details>
