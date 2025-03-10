@@ -3,11 +3,21 @@ ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+### Minecraft
+- **I am a Minecraft Data-, Resource-Pack and Mod Creator**
+- If you have some ideas for projects or want to do abproject together/ask for help, **DM ME**
+- 📫 How to reach me:
+  - Discord: **Shadowdara**
+  - Reddit: **[u/blackknight5027](https://reddit.com/u/blackknight5027)
+
+#### [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
+
+---
+
 - 👋 Hi, I’m @ShadowDara
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code and design my own games
 - 💞️ I’m looking to collaborate on my style XD
-- 📫 How to reach me: send me a message via **Discord** | **Shadowdara**
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I never watched something on Netflix
 - ✨ My favurite Programming language is tbh **Python** but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
