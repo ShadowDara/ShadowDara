@@ -28,8 +28,12 @@ You can click the Preview link to take a look at your changes.
 
 ### [My Github Webiste](https://shadowdara.github.io)
 
+---
+
 ### [Some Tech Tricks](https://github.com/ShadowDara/Tech-Stuff)
 
 - btw I am trying to collect some [Tech Tipps](https://github.com/ShadowDara/Tech-Stuff) in this other Repository, maybe check out, if you are interrested. Some of them are hopefully helpful!!!
 
-### [More about me](https://gist.github.com/ShadowDara/9de657754f6b3559e8b05c9edcac2d13)
+---
+
+### [More about me!!!](https://gist.github.com/ShadowDara/9de657754f6b3559e8b05c9edcac2d13)
