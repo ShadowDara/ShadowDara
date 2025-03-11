@@ -53,9 +53,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### [Some Tech Tricks](https://github.com/ShadowDara/Tech-Stuff)
+### [Some Tech Tricks](https://gist.github.com/ShadowDara/d9891f08687e40a843ec1527c2516f05)
 
-- btw I am trying to collect some [Tech Tipps](https://github.com/ShadowDara/Tech-Stuff) in this other Repository, maybe check out, if you are interrested. Some of them are hopefully helpful!!!
+- btw I am trying to collect some Tech Stuff in this other Repository, maybe check out, if you are interrested. Some of them are hopefully helpful!!!
 
 ---
 
