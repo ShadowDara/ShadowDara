@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   - Discord: **Shadowdara**
   - Reddit: **[u/blackknight5027](https://reddit.com/u/blackknight5027)**
   - Email: **[reachme_shadowdara+github@gmail.com](malito:reachme_shadowdara+github@gmail.com)**
-  - [Google Form: https://forms.gle/yrfSjNPmCC9gvs396](https://forms.gle/yrfSjNPmCC9gvs396)
+  - **Google Form:** [https://forms.gle/yrfSjNPmCC9gvs396](https://forms.gle/yrfSjNPmCC9gvs396)
 
 ### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
 
