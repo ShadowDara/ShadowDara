@@ -14,6 +14,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me:
   - Discord: **Shadowdara**
   - Reddit: **[u/blackknight5027](https://reddit.com/u/blackknight5027)**
+  - Email: **[reachme_shadowdara+github@gmail.com](malito:reachme_shadowdara+github@gmail.com)
 
 ### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
 
