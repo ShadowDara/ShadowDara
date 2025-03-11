@@ -27,6 +27,8 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
+<details><summary>More (Click on the little arrow to expand the paragrah!</summary>
+
 - 👋 Hi, I’m @ShadowDara
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code and design my own games
@@ -72,4 +74,6 @@ You can click the Preview link to take a look at your changes.
   <li>Public: <b>19</b></li>
   <li>Private: <b>31</b></li>
 </ul>
+</details>
+
 </details>
