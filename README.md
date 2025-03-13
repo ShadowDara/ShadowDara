@@ -53,9 +53,9 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### [My Github Webiste](https://shadowdara.github.io)
+### 📉 [Github.io Webpage](https://shadowdara.github.io)
 
-### [Some Tech Tricks](https://gist.github.com/ShadowDara/d9891f08687e40a843ec1527c2516f05)
+### 🖥️ [Some Tech Tricks](https://gist.github.com/ShadowDara/d9891f08687e40a843ec1527c2516f05)
 
 ### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
 
