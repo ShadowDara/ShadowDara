@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=radical&langs_count=20)
 
-
+<!--
 
 ## Minecraft Projects
 
@@ -82,4 +82,6 @@ You can click the Preview link to take a look at your changes.
   <li>Private: <b>31</b></li>
 </ul>
 </details>
+-->
+
 -->
