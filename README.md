@@ -45,7 +45,6 @@ You can click the Preview link to take a look at your changes.
 
   - **Google Form:** [https://forms.gle/yrfSjNPmCC9gvs396](https://forms.gle/yrfSjNPmCC9gvs396)
 
-### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
 
 ## 🚨 Little Overview
 
@@ -56,11 +55,10 @@ You can click the Preview link to take a look at your changes.
 
 ### [My Github Webiste](https://shadowdara.github.io)
 
----
-
 ### [Some Tech Tricks](https://gist.github.com/ShadowDara/d9891f08687e40a843ec1527c2516f05)
 
-- btw I am trying to collect some Tech Stuff in this other Repository, maybe check out, if you are interrested. Some of them are hopefully helpful!!!
+### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
+
 
 <!--
 
