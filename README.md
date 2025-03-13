@@ -3,7 +3,7 @@ I am trying to be a programmer and i am uploading my projects to the Internet lo
 
 IDK what i should write here, nobody will ever this, are you?
 
-- 📫 Reach me via Discord (***Shadowdara***) or **<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>**
+- 📫 Reach me via Discord (***Shadowdara***) or ***<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>***
 
 <!--
 
