@@ -3,18 +3,18 @@ I am trying to be a programmer and i am uploading my projects to the Internet lo
 
 IDK what i should write here, nobody will ever this, are you?
 
+<!--
+
 - 👋 Hi, I’m @ShadowDara
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code and design my own games
 - 💞️ I’m looking to collaborate on my style XD
 - 😄 Pronouns: she/her
-- 📫 How to reach me:
-  - Discord: **Shadowdara**
-  - Reddit: **[u/blackknight5027](https://reddit.com/u/blackknight5027)**
-  - Email: **<a href="mailto:reachme_shadowdara+github@gmail.com">reachme_shadowdara+github@gmail.com</a>**
-  - Telegram: **<a href="https://t.me/shadowdara">@shadodara<a>**
+- 📫 Reach me via Discord (***Shadowdara***) or **<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>**
 - ⚡ Fun fact: I never watched something on Netflix
 - ✨ My favurite Programming language is tbh **Python** but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
+
+-->
 
 <!---
 ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +30,8 @@ You can click the Preview link to take a look at your changes.
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=radical&langs_count=20)
+
+
 
 ## Minecraft Projects
 
