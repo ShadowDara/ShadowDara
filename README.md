@@ -47,8 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
----
-
 ## 🚨🚨🚨 Some nice Stuff 🚨🚨🚨
 
 - ✅ [Modrinth Projects](https://modrinth.com/user/Shadowdara)
