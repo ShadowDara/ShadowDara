@@ -3,7 +3,7 @@ I am uploading my projects to the Internet lol!
 
 IDK what i should write here, nobody will ever this, are you?
 
-- 📫 Reach me via Discord (***Shadowdara***) or ***<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>***
+- 📫 Reach me via Discord (***[Shadowdara](https://discord.gg/9Jh8B8pkJa)***) or ***<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>***
 
 <!--
 
@@ -56,7 +56,9 @@ You can click the Preview link to take a look at your changes.
 
 -  🖥️ [Some Tech Tricks](https://gist.github.com/ShadowDara/d9891f08687e40a843ec1527c2516f05)
 
+---
 
+- ✨ fav lang: Python
 <!--
 
 ---
