@@ -1,8 +1,14 @@
+# Hey ^^
 - 👋 Hi, I’m @ShadowDara
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning to code and design my own games
 - 💞️ I’m looking to collaborate on my style XD
 - 😄 Pronouns: she/her
+- 📫 How to reach me:
+  - Discord: **Shadowdara**
+  - Reddit: **[u/blackknight5027](https://reddit.com/u/blackknight5027)**
+  - Email: **<a
+  - Telegram: **<a href="https://t.me/shadowdara">@shadodara<a>** href="mailto:reachme_shadowdara+github@gmail.com">reachme_shadowdara+github@gmail.com</a>**
 - ⚡ Fun fact: I never watched something on Netflix
 - ✨ My favurite Programming language is tbh **Python** but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
 
@@ -29,10 +35,7 @@ You can click the Preview link to take a look at your changes.
   - want to do abproject together
   - ask for help
 #### 📨 **DM ME**
-- 📫 How to reach me:
-  - Discord: **Shadowdara**
-  - Reddit: **[u/blackknight5027](https://reddit.com/u/blackknight5027)**
-  - Email: **<a href="mailto:reachme_shadowdara+github@gmail.com">reachme_shadowdara+github@gmail.com</a>**
+
   - **Google Form:** [https://forms.gle/yrfSjNPmCC9gvs396](https://forms.gle/yrfSjNPmCC9gvs396)
 
 ### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
