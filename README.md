@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
 ## 🚨🚨🚨 Some nice Stuff 🚨🚨🚨
 
 - ✅ [Modrinth Projects](https://modrinth.com/user/Shadowdara)
-  - *Minecraft Mods, Datapacks, Resourcepacks and Modpacks ;)*
+  - *my Minecraft Mods, Datapacks, Resourcepacks and Modpacks ;)*
 
 -  📉 [Github.io Webpage](https://shadowdara.github.io)
 
