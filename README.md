@@ -3,6 +3,8 @@ I am trying to be a programmer and i am uploading my projects to the Internet lo
 
 IDK what i should write here, nobody will ever this, are you?
 
+- 📫 Reach me via Discord (***Shadowdara***) or **<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>**
+
 <!--
 
 - 👋 Hi, I’m @ShadowDara
@@ -10,7 +12,6 @@ IDK what i should write here, nobody will ever this, are you?
 - 🌱 I’m currently learning to code and design my own games
 - 💞️ I’m looking to collaborate on my style XD
 - 😄 Pronouns: she/her
-- 📫 Reach me via Discord (***Shadowdara***) or **<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>**
 - ⚡ Fun fact: I never watched something on Netflix
 - ✨ My favurite Programming language is tbh **Python** but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
 
