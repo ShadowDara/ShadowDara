@@ -20,7 +20,7 @@ IDK what i should write here, nobody will ever this, are you?
 <!---
 ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=radical)
 
@@ -47,7 +47,6 @@ You can click the Preview link to take a look at your changes.
 
 ### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
 
-<!--
 ## 🚨 Little Overview
 
 ### Simpletimer
