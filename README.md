@@ -45,20 +45,22 @@ You can click the Preview link to take a look at your changes.
 
   - **Google Form:** [https://forms.gle/yrfSjNPmCC9gvs396](https://forms.gle/yrfSjNPmCC9gvs396)
 
-
-## 🚨 Little Overview
-
-### Simpletimer
 -->
 
 ---
 
-### 📉 [Github.io Webpage](https://shadowdara.github.io)
+## 🚨 Little Overview
 
-### 🖥️ [Some Tech Tricks](https://gist.github.com/ShadowDara/d9891f08687e40a843ec1527c2516f05)
+**
 
-### ✅ [My Projects on Modrinth](https://modrinth.com/user/Shadowdara)
+- ✅ [Modrinth Projects](https://modrinth.com/user/Shadowdara)
+  - *Minecraft Mods, Datapacks, Resourcepacks and Modpacks ;)*
 
+-  📉 [Github.io Webpage](https://shadowdara.github.io)
+
+-  🖥️ [Some Tech Tricks](https://gist.github.com/ShadowDara/d9891f08687e40a843ec1527c2516f05)
+
+**
 
 <!--
 
