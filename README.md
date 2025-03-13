@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 - ✨ fav lang: Python
-- - 💞️ I’m looking to be myself D:
+- 💞️ I’m looking to be myself D:
 <!--
 
 ---
