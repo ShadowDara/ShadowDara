@@ -1,5 +1,5 @@
 # Hey :3
-I am trying to be a programmer and i am uploading my projects to the Internet lol!
+I am uploading my projects to the Internet lol!
 
 IDK what i should write here, nobody will ever this, are you?
 
