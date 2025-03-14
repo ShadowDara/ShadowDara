@@ -1,2 +1,2 @@
-*.bak linguist-detectable=true
-*.bak linguist-documentation=false
+*.ini linguist-detectable=true
+*.ini linguist-documentation=false
