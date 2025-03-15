@@ -22,7 +22,7 @@ ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple)
 
 <!-- 
 
@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=radical&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20)
 
 <!--
 
