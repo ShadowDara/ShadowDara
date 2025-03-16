@@ -54,8 +54,6 @@ You can click the Preview link to take a look at your changes.
 
 -  📉 [Github.io Webpage](https://shadowdara.github.io)
 
--  🖥️ [Some Tech Tricks](https://github.com/ShadowDara/Tech-Tricks)
-
 ---
 
 - ✨ fav lang: Python
