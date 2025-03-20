@@ -12,5 +12,12 @@ def path():
     skript_dir = os.path.dirname(os.path.abspath(__file__))
     print("Folder path:", skript_dir)
 
+def start():
+    while True:
+        path()
+        choice = input()
+        if choice == "0":
+            break
+
 if __name__ == '__main__':
-    pass
+    start()
