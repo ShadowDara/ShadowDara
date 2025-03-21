@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 - ✅ [Modrinth Projects](https://modrinth.com/user/Shadowdara)
   - *my Minecraft Mods, Datapacks, Resourcepacks and Modpacks ;)*
 
--  :snake: [Python Tools](https://github.com/shadowdara/shadowdara/blob/main/files/python_tools.md)
+-  :snake: [Python Scripts and other useful Stuff](https://shadowdara.github.io)
 
 ---
 
