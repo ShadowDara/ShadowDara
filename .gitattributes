@@ -1,4 +1,2 @@
-*.ini linguist-detectable=true
-*.ini linguist-documentation=false
 *.md linguist-detectable=true
 *.md linguist-documentation=false
