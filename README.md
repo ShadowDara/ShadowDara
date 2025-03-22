@@ -3,7 +3,7 @@ I am uploading my projects to the Internet lol!
 
 IDK what i should write here, nobody will ever this, are you?
 
-- 📫 Reach me via Discord (***[Shadowdara](https://discord.gg/9Jh8B8pkJa)***) or ***<a href="mailto:reachme_shadowdara+github@gmail.com">Email - reachme_shadowdara+github@gmail.com</a>***
+- 📫 Reach me via Discord (***[Shadowdara](https://discord.gg/9Jh8B8pkJa)***) or ***<a href="mailto:reachme.shadowdara+github@gmail.com">Email - reachme.shadowdara+github@gmail.com</a>***
 
 <!--
 
