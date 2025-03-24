@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 - ✅ [Modrinth Projects](https://modrinth.com/user/Shadowdara)
   - *my Minecraft Mods, Datapacks, Resourcepacks and Modpacks ;)*
 
--  :snake: [Python Scripts and other useful Stuff *(My Projects!)*](https://shadowdara.github.io)
+-  :snake: [Python Scripts and other useful Stuff *(My Projects!)*]([https://shadowdara.github.io](https://github.com/ShadowDara/3ma-to-obj-converter-python))
 
 ---
 
