@@ -60,24 +60,7 @@ You can click the Preview link to take a look at your changes.
 
 - ✨ fav lang: Python
 - 💞️ I’m looking to be myself D:
-<!--
 
 ---
 
-### My Projects
-
-<a href="https://github.com/ShadowDara/Discord-Package-Stats"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=Discord-Package-Stats&theme=radical"></a>
-
-
---- 
-
-<details><summary>More Spam!</summary>
-<h3>Repository Stats</h3>
-<hr><ul>
-  <li>All: <b>50</b></li>
-  <li>Public: <b>19</b></li>
-  <li>Private: <b>31</b></li>
-</ul>
-</details>
-
--->
+[More!](https://github.com/weuritz8u?tab=repositories)
