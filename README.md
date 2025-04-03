@@ -63,4 +63,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-[More!](https://github.com/weuritz8u?tab=repositories)
+- [More Projects!](https://github.com/weuritz8u?tab=repositories)
