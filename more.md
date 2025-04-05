@@ -1,0 +1,1 @@
+https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&hide=markdown,mcfunction,ini&langs_count=20
