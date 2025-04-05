@@ -2,4 +2,4 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,python,html,ino)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,html,css,javascript)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,language1language2)
