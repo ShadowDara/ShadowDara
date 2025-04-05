@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&ignore=markdown,mcfunction,ini)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&hide=markdown,mcfunction,ini)
 
 ![Views](https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
 
