@@ -11,7 +11,7 @@
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,mcfunction,ini,python,html,c++">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,html,css,javascript">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,html,css,python">
         </td>
         <td>
             <table>
@@ -23,7 +23,7 @@
                 <tr>
                     <td>python</td>
                     <td>✅</td>
-                    <td>❌</td>
+                    <td>✅</td>
                 </tr>
                 <tr>
                     <td>HTML</td>
@@ -36,7 +36,7 @@
                     <td>❌</td>
                 </tr>
                 <tr>
-                    <td>javascript</td>
+                    <td>css</td>
                     <td>❌</td>
                     <td>✅</td>
                 </tr>
@@ -52,6 +52,27 @@
 		<th><code>ini</code></th>
 	</tr>
 </table>
+
+<!--
+
+<h2>Top 20 with ignoring!</h2>
+<table>
+    <tr>
+        <th><b>Shadowdara</b></th>
+        <th><b>weuritz8u</b></th>
+    </tr>
+    <tr>
+        <td><img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini">
+        </td>
+        <td><img
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini">
+        </td>
+    </tr>
+</table>
+
+-->
+
 <h2>Top 20 without ignoring!</h2>
 <table>
     <tr>
