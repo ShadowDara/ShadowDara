@@ -12,7 +12,7 @@
 
 <h4>🚨🚨🚨 The nice Projects are uploaded <i><code><b><a href="https://github.com/weuritz8u">here</a></b></code></i> 🚨🚨🚨</h4>
 
-<h3><a href="INFO.md#someprojects"><code>Projects of this Account!</code></a></h3>
+<h3><a href="#projectlist"><code>Projects of this Account!</code></a></h3>
 
 <p>📫 Reach me via Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>) or <b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></p>
 
@@ -34,6 +34,20 @@
 <code><b><i>Views</i></b></code>
 
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
+
+<br>
+
+<h2 id="projectlist">🚨🚨🚨 Projects 🚨🚨🚨</h2>
+
+<h3><a href="https://modrinth.com/user/Shadowdara">✅ Modrinth Projects</a><i> - (stuff for Minecraft)</i></h3>
+
+<h3><a href="https://shadowdara.itch.io">Itch io</a> <i>for games and stuff</i></h3>
+
+<br>
+
+<p><b>Question:</b> <i><code>Why are you using 2 Github Accounts for your projects</code></i></p>
+
+<p><b>Answer:</b> <code>I am doing this because with one i am really scared to lose the overview about the projects</code></p>
 
 <br>
 

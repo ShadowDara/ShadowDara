@@ -2,29 +2,6 @@
 
 <div align="center">
 
-<h1>Infos</h1>
-
-<h2>Index</h2>
-
-<p><a href="#someprojects">Project List</a></p>
-<p><a href="#qanda">Q and A</a></p>
-<p><a href="#stats">More Useless Stats</a></p>
-
-<h2 id="someprojects">🚨🚨🚨 Projects 🚨🚨🚨</h2>
-
-<p><a href="https://modrinth.com/user/Shadowdara">✅ Modrinth Projects</a><i> - (stuff for Minecraft)</i></p>
-
-<p><a href="https://shadowdara.itch.io">Itch io</a></p>
-
-<br>
-
-<h2 id="qanda">Q and A</h2>
-
-<p>Question: <i><code>Why are you using 2 Github Accounts for your projects</code></i></p>
-<p>Answer: <code>I am doing this because with one i am really scared to lose the overview about the projects</code></p>
-
-<br>
-
 <!-- 
 
 Old Stuff for saving here now!
@@ -87,10 +64,10 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,mcfunction,ini,python,html,c++">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,mcfunction,ini,python,html,c++">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,html,css,python">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20&hide=markdown,mcfunction,ini,html,css,python">
         </td>
         <td>
             <table>
@@ -162,10 +139,10 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20">
         </td>
     </tr>
 </table>
