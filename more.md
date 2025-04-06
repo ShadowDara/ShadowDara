@@ -1,12 +1,15 @@
 ## Langs without the Top 3
 
-### Shadowdara
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,mcfunction,ini,python,html,c++)
-
-### weuritz8u
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,html,css,javascript)
+<table>
+	<tr>
+		<td><h3>Shadowdara</h3></td>
+		<td><h3>weuritz8u</h3></td>
+	</tr>
+	<tr>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,mcfunction,ini,python,html,c++"></td>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20&hide=markdown,mcfunction,ini,html,css,javascript"></td>
+	</tr>
+</table>
 
 ### Ignored
 
@@ -64,10 +67,13 @@
 
 ## Top 20 without ignoring!
 
-### Shadowdara
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20)
-
-### weuritz8u
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20)
+<table>
+	<tr>
+		<th><h3>Shadowdara</h3></th>
+		<th><h3>weuritz8u</h3></th>
+	</tr>
+	<tr>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=chartreuse-dark&langs_count=20"></td>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=chartreuse-dark&langs_count=20"></td>
+	</tr>
+</table>
