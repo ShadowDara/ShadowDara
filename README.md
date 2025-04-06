@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h1>Hey :3</h1>
+<h1><a href="https://tenor.com/view/girlkisser-gif-954928936650434423">Hey :3<a></h1>
 
 <p>I am uploading my projects to the Internet lol!</p>
 
@@ -31,10 +31,6 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
 
-<code><b><i>Views</i></b></code>
-
-<img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
-
 <br>
 
 <h2 id="projectlist">🚨🚨🚨 Projects 🚨🚨🚨</h2>
@@ -51,10 +47,14 @@
 
 <br>
 
+<code><b><i>Views</i></b></code>
+
+<img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
+
 <code><b><i>Full End!</i></b></code>
 
 <br>
 
-<p>💞️ I’m looking to be myself <b>D:</b> <i><code>lol</code></i></p>
+<p>💞️ I’m looking to be myself <b>D:</b> <i><code><a href="INFO.md">lol</a></code></i></p>
 
 </div>
