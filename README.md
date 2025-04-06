@@ -10,9 +10,7 @@
 
 <p>This is the Account to upload my <code>SPAM</code> or <code>fun</code> / <code>useless</code> projects.</p>
 
-<h3>🚨🚨🚨 The nice Projects are uploaded <i><code><b><a href="https://github.com/weuritz8u">here</a></b></code></i> 🚨🚨🚨</h3>
-
-<h2><a href="#projectlist"><code>Projects of this Account!</code></a></h2>
+<h2>🚨🚨🚨 The nice Projects are uploaded <i><code><b><a href="https://github.com/weuritz8u">here</a></b></code></i> 🚨🚨🚨</h2>
 
 <p>📫 Reach me via Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>) or <b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></p>
 
