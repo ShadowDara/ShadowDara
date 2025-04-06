@@ -1,4 +1,11 @@
 <!-- IDK why i wrote this in HTML! -->
+
+<h3>Shadowdara</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple" alt="GitHub Streak">
+
+<h3>weuritz8u</h3>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="GitHub Streak">
+
 <h2>Langs without the Top 3</h2>
 <table>
     <tr>
