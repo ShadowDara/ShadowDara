@@ -4,7 +4,7 @@
 
 <h1><a href="https://tenor.com/view/girlkisser-gif-954928936650434423">Hey :3<a></h1>
 
-<p>I am uploading my projects to the Internet lol!</p>
+<p><b>I am uploading my projects to the Internet lol!</b></p>
 
 <p>idk what i should write here, nobody will ever read this, are you?</p>
 
