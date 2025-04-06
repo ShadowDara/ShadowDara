@@ -1,70 +1,47 @@
-## Hey :3
-I am uploading my projects to the Internet lol!
+<!-- Sorry for writing this in HTML! -->
 
-IDK what i should write here, nobody will ever this, are you?
+<div align="center">
 
-- 📫 Reach me via Discord (***[Shadowdara](https://discord.gg/9Jh8B8pkJa)***) or ***<a href="mailto:reacheme.shadowdara+github@gmail.com">Email - reacheme.shadowdara+github@gmail.com</a>***
+<h1>Hey :3</h1>
 
-<!--
+<p>I am uploading my projects to the Internet lol!</p>
 
-- 👋 Hi, I’m @ShadowDara
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning to code and design my own games
-- 💞️ I’m looking to collaborate on my style XD
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I never watched something on Netflix
-- ✨ My favurite Programming language is tbh **Python** but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
+<p>idk what i should write here, nobody will ever read this, are you?</p>
 
--->
+<p>This is the Account to upload my <code>SPAM</code> or <code>fun</code> / <code>useless</code> projects.</p>
 
-<!---
-ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
--->
+<h4>🚨🚨🚨 The nice Projects are uploaded <i><code><b><a href="https://github.com/weuritz8u">here</a></b></code></i> 🚨🚨🚨</h4>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true)
+<h3><a href="INFO.md#someprojects"><code>Projects of this Account!</code></a></h3>
 
-<!-- 
+<p>📫 Reach me via Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>) or <b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></p>
 
-![Top Time](https://github-readme-stats.vercel.app/api/wakatime?username=Shadowdara&theme=radical&langs_count=20)
+<img src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true">
 
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&hide=markdown,mcfunction,ini">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&hide=markdown,mcfunction,ini)
+<br>
 
-![Views](https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple">
 
-<!--
+<br>
 
-## Minecraft Projects
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF">
 
-- 🌳 **I am a Minecraft Data-, Resource-Pack and Mod Creator**
-- 💡If you have:
-  - some ideas for projects
-  - want to do abproject together
-  - ask for help
-#### 📨 **DM ME**
+<br>
 
-  - **Google Form:** [https://forms.gle/yrfSjNPmCC9gvs396](https://forms.gle/yrfSjNPmCC9gvs396)
+<img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
 
--->
+<code><b><i>Views</i></b></code>
 
-## 🚨🚨🚨 Some nice Stuff 🚨🚨🚨
+<img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
 
-- ✅ [Modrinth Projects](https://modrinth.com/user/Shadowdara)
-  - *my Minecraft Mods, Datapacks, Resourcepacks and Modpacks ;)*
+<br>
 
-<!--
+<code><b><i>Full End!</i></b></code>
 
--  :snake: [Python Scripts](https://github.com/ShadowDara/3ma-to-obj-converter-python)
+<br>
 
--->
+<p>💞️ I’m looking to be myself <b>D:</b> <i><code>lol</code></i></p>
 
----
-
-- ✨ fav lang: Python
-- 💞️ I’m looking to be myself D:
-
----
-
-### [More Projects!](https://github.com/weuritz8u?tab=repositories)
+</div>

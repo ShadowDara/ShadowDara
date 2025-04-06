@@ -1,12 +1,84 @@
-<!-- IDK why i wrote this in HTML! -->
+<!-- Sorry for writing this in HTML! -->
 
-<h3>Shadowdara</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple" alt="GitHub Streak">
+<div align="center">
 
-<h3>weuritz8u</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="GitHub Streak">
+<h1>Infos</h1>
 
-<h2>Langs without the Top 3</h2>
+<h2>Index</h2>
+
+<p><a href="#someprojects">Project List</a></p>
+<p><a href="#qanda">Q and A</a></p>
+<p><a href="#stats">More Useless Stats</a></p>
+
+<h2 id="someprojects">🚨🚨🚨 Projects 🚨🚨🚨</h2>
+
+<p><a href="https://modrinth.com/user/Shadowdara">✅ Modrinth Projects</a><i> - (stuff for Minecraft)</i></p>
+
+<p><a href="https://shadowdara.itch.io">Itch io</a></p>
+
+<br>
+
+<h2 id="qanda">Q and A</h2>
+
+<p>Question: <i><code>Why are you using 2 Github Accounts for your projects</code></i></p>
+<p>Answer: <code>I am doing this because with one i am really scared to lose the overview about the projects</code></p>
+
+<br>
+
+<!-- 
+
+Old Stuff for saving here now!
+
+-->
+
+<!--
+
+- 👋 Hi, I’m @ShadowDara
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning to code and design my own games
+- 💞️ I’m looking to collaborate on my style XD
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I never watched something on Netflix
+- ✨ My favurite Programming language is tbh **Python** but i dont know a lot different programming languages, so maybe there is altough which i would like more when i discover them but i am using Java the most for Minecraft programming!
+
+-->
+
+<!---
+ShadowDara/ShadowDara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+-->
+
+<!-- 
+
+![Top Time](https://github-readme-stats.vercel.app/api/wakatime?username=Shadowdara&theme=radical&langs_count=20)
+
+-->
+
+<!--
+
+## Minecraft Projects
+
+- 🌳 **I am a Minecraft Data-, Resource-Pack and Mod Creator**
+- 💡If you have:
+  - some ideas for projects
+  - want to do abproject together
+  - ask for help
+#### 📨 **DM ME**
+
+  - **Google Form:** [https://forms.gle/yrfSjNPmCC9gvs396](https://forms.gle/yrfSjNPmCC9gvs396)
+
+-->
+
+<!--
+
+-  :snake: [Python Scripts](https://github.com/ShadowDara/3ma-to-obj-converter-python)
+
+-->
+
+<h2 id="stats">The Useless Part!</h2>
+
+<h3>Langs without the Top 3</h3>
+
 <table>
     <tr>
         <th><b>Shadowdara</b></th>
@@ -51,6 +123,7 @@
         </td>
     </tr>
 </table>
+
 <table>
 	<tr>
 		<th><b>In both ignored!</b></th>
@@ -80,7 +153,8 @@
 
 -->
 
-<h2>Top 20 without ignoring!</h2>
+<h2>Top 20 without ignoring the top 3!</h2>
+
 <table>
     <tr>
         <th><b>Shadowdara</b></th>
@@ -95,3 +169,6 @@
         </td>
     </tr>
 </table>
+
+
+</div>
