@@ -46,9 +46,9 @@
 </table>
 <h4><b>In both ignored!</b></h4>
 <ul>
-    <li>Markdown</li>
-    <li>mcfunction</li>
-    <li>ini</li>
+    <li><code>Markdown</code></li>
+    <li><code>mcfunction</code></li>
+    <li><code>ini</code></li>
 </ul>
 <h2>Top 20 without ignoring!</h2>
 <table>
