@@ -16,12 +16,11 @@
 
 <p>📫 Reach me via Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>) or <b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&hide=markdown,mcfunction,ini">
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple">
 
 <br>
