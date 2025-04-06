@@ -44,12 +44,14 @@
         </td>
     </tr>
 </table>
-<h4><b>In both ignored!</b></h4>
-<ul>
-    <li><code>Markdown</code></li>
-    <li><code>mcfunction</code></li>
-    <li><code>ini</code></li>
-</ul>
+<table>
+	<tr>
+		<th><b>In both ignored!</b></th>
+		<th><code>Markdown</code></th>
+		<th><code>mcfunction</code></th>
+		<th><code>ini</code></th>
+	</tr>
+</table>
 <h2>Top 20 without ignoring!</h2>
 <table>
     <tr>
