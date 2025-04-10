@@ -1,5 +1,8 @@
 <!-- Sorry for writing this in HTML! -->
 
+<!-- written by Shadowdara -->
+<!-- https://github.com/shadowdara/shadowdara -->
+
 <div align="center">
 
 <h1><a href="https://tenor.com/view/girlkisser-gif-954928936650434423">Hey :3<a></h1>
