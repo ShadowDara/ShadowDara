@@ -67,7 +67,7 @@ You can click the Preview link to take a look at your changes.
                 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,mcfunction,ini,python,html,c++">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20&hide=markdown,mcfunction,ini,html,css,python">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20&hide=markdown,mcfunction,ini,html,typescript,javascript">
         </td>
         <td>
             <table>
@@ -92,7 +92,7 @@ You can click the Preview link to take a look at your changes.
                     <td>❌</td>
                 </tr>
                 <tr>
-                    <td>css</td>
+                    <td>Typescript</td>
                     <td>❌</td>
                     <td>✅</td>
                 </tr>
@@ -144,10 +144,10 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20&bg_color=001122">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20&bg_color=001125">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20&bg_color=001122">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20&bg_color=001125">
         </td>
     </tr>
 </table>
