@@ -64,10 +64,10 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,mcfunction,ini,python,html,c++">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20&exclude_repo=Arduino-NWT&hide=markdown,ini,python,html,c++">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20&hide=markdown,mcfunction,ini,html,typescript,python">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20&hide=markdown,ini,html,typescript,python">
         </td>
         <td>
             <table>
@@ -105,7 +105,6 @@ You can click the Preview link to take a look at your changes.
 	<tr>
 		<th><b>In both ignored!</b></th>
 		<th><code>Markdown</code></th>
-		<th><code>mcfunction</code></th>
 		<th><code>ini</code></th>
 	</tr>
 </table>
@@ -139,10 +138,10 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=19">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=18">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=19">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=18">
         </td>
     </tr>
 </table>
