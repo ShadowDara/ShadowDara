@@ -139,10 +139,10 @@ You can click the Preview link to take a look at your changes.
     </tr>
     <tr>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=19">
         </td>
         <td><img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=20">
+                src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&layout=compact&theme=midnight-purple&langs_count=19">
         </td>
     </tr>
 </table>
