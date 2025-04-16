@@ -11,7 +11,11 @@
 
 <p>idk what i should write here, nobody will ever read this, are you?</p>
 
-<p>This is the Account to upload my <code>SPAM</code> or <code>fun</code> / <code>useless</code> projects.</p>
+<p>idk what to really put here, so ... sorry <b>D:</b></p>
+
+<p>I like programming and i am still learning it</p>
+
+<p><b>fav langs:</b> <code>Python</code></p>
 
 <h2>🚨🚨🚨 The nice Projects are uploaded <i><code><b><a href="https://github.com/weuritz8u">here</a></b></code></i> 🚨🚨🚨</h2>
 
