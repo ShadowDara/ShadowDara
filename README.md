@@ -17,8 +17,6 @@
 
 <p><b>fav langs:</b> <code>Python</code></p>
 
-<h2>🚨🚨🚨 The nice Projects are uploaded <i><code><b><a href="https://github.com/weuritz8u">here</a></b></code></i> 🚨🚨🚨</h2>
-
 <p>📫 Reach me via Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>) or <b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&hide=markdown,ini">
