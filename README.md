@@ -9,7 +9,12 @@
 
 <h3>I am trying to code in <code>web</code>, <code>Python</code> and <code>Tauri</code> Stuff</h3>
 
-<p>📫 Reach me via Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>) or <b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></p>
+<p>📫 Reach me via</p>
+<ul>
+  <li>Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>)</li>
+  <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
+  <li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>
+</ul> 
 
 <h2>Projects I am Proud of</h2>
 
