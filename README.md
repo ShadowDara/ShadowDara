@@ -45,17 +45,17 @@
 
 <br>
 
-<h3>Some of my webpages not working? <a href="https://github.com/ShadowDara/Pages-Uptime">Check here</a></h3>
-
-<br>
-
 <h2>More of my Projects</h2>
 
 <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" alt="Repo Database Creator"></a>
 
-<h4>My Webpages</h4>
+<h3>My Webpages</h3>
 
 <a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> <!--| <a>Blog</a>-->
+
+<h4>Some of my webpages not working? <a href="https://github.com/ShadowDara/Pages-Uptime">Check here</a></h4>
+
+<br>
 
 <h2>Stats for 2nd Github Account - <i>weuritz8u</i></h2>
 
