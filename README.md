@@ -39,11 +39,13 @@
 
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
 
-<br>
+<br><br>
 
 <h2>More of my Projects</h2>
 
 <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" alt="Repo Database Creator"></a>
+
+<br>
 
 <h3>My Webpages</h3>
 
@@ -51,7 +53,7 @@
 
 <h4>Some of my webpages not working? <a href="https://shadowdara.github.io/Pages-Uptime"><i>Check here</i></a></h4>
 
-<br>
+<br><br>
 
 <h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
 
