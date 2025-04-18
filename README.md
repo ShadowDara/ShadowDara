@@ -24,11 +24,11 @@
 
 <h2>My Github Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&exclude_repo=Pages-Uptime&hide=markdown,ini">
+<img src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&exclude_repo=Pages-Uptime&langs_count=8&hide=markdown,ini">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple">
 
 <br>
@@ -59,11 +59,11 @@
 
 <h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=8&hide=markdown" alt="Top languages">
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="Streak">
 
 <br>
