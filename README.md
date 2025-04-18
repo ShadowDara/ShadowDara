@@ -7,7 +7,7 @@
 
 <h1><a href="https://tenor.com/view/girlkisser-gif-954928936650434423">Hey :3<a></h1>
 
-<h4>I am trying to code in <code>web</code>, <code>Python</code> and <code>Tauri</code> Stuff</h4>
+<h4>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects</h4>
 
 <img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Need+to+sleep+:(+!!!">
 
