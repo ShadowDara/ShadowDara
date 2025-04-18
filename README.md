@@ -47,6 +47,8 @@
 
 <p>💞️ I’m looking to be myself <b>D:</b>
 
+<h4>Some of my webpages not working? <a href="https://github.com/ShadowDara/Pages-Uptime">Check here</a></h4>
+
 <h2>More of my Projects</h2>
 
 <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" alt="Repo Database Creator"></a>
