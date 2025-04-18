@@ -53,11 +53,11 @@
 
 <a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> <!--| <a>Blog</a>-->
 
-<h4>Some of my webpages not working? <a href="https://shadowdara.github.io/Pages-Uptime">Check here</a></h4>
+<h4>Some of my webpages not working? <a href="https://shadowdara.github.io/Pages-Uptime"><i>Check here</i></a></h4>
 
 <br>
 
-<h2>Stats for 2nd Github Account - <i>weuritz8u</i></h2>
+<h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown" alt="Top languages">
 
