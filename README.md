@@ -15,7 +15,7 @@
 <ul>
   <li>Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>)</li>
   <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
-  <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>
+  <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>-->
 </ul>
 
 <h2>Projects I am Proud of</h2>
