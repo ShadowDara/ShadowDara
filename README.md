@@ -7,7 +7,7 @@
 
 <h1><a href="https://tenor.com/view/girlkisser-gif-954928936650434423">Hey :3<a></h1>
 
-<p>I am trying to code in <code>web</code>, <code>Python</code> and <code>Tauri</code> Stuff</p>
+<h3>I am trying to code in <code>web</code>, <code>Python</code> and <code>Tauri</code> Stuff</h3>
 
 <p>📫 Reach me via Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>) or <b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></p>
 
