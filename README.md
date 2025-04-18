@@ -53,7 +53,7 @@
 
 <a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> <!--| <a>Blog</a>-->
 
-<h4>Some of my webpages not working? <a href="https://github.com/ShadowDara/Pages-Uptime">Check here</a></h4>
+<h4>Some of my webpages not working? <a href="https://shadowdara.github.io/Pages-Uptime">Check here</a></h4>
 
 <br>
 
