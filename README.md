@@ -37,11 +37,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
 
-<code><b><i>Views</i></b></code>
-
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
-
-<code><b><i>Full End!</i></b></code>
 
 <br>
 
