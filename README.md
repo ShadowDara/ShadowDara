@@ -81,3 +81,9 @@
 <p>💞️ I’m looking to be myself <b>D:</b>
 
 </div>
+
+<details><summary><i>Full lang stats</i></summary><br>
+<p><b>Shadowdara | weuritz8u</b></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&exclude_repo=Pages-Uptime&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=20">
+</details>
