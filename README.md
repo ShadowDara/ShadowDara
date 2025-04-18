@@ -60,7 +60,7 @@
 <h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=8&hide=markdown" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=8&hide=markdown,text" alt="Top languages">
 
 <br>
 
