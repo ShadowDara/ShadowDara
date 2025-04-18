@@ -45,9 +45,9 @@
 
 <br>
 
-<p>💞️ I’m looking to be myself <b>D:</b>
+<h3>Some of my webpages not working? <a href="https://github.com/ShadowDara/Pages-Uptime">Check here</a></h3>
 
-<h4>Some of my webpages not working? <a href="https://github.com/ShadowDara/Pages-Uptime">Check here</a></h4>
+<br>
 
 <h2>More of my Projects</h2>
 
@@ -71,5 +71,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
 
 <p><i>Dont ask why i have 2, i now its stupid ;)</i></p>
+
+<br>
+
+<p>💞️ I’m looking to be myself <b>D:</b>
 
 </div>
