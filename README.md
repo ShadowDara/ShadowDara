@@ -27,23 +27,17 @@
 
 <h2>My Github Stats</h2>
 
+<img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=shadowdara">
+<br>
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true">
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&exclude_repo=Pages-Uptime&langs_count=8&hide=markdown,ini">
-
 <br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple">
-
 <br>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF">
-
 <br>
-
 <img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
-
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
-
 <br><br>
 
 <h2>More of my Projects</h2>
