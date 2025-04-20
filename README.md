@@ -20,6 +20,7 @@
 
 <h2>Projects I am Proud of</h2>
 
+<!-- Tech-Tricks --> <a href="https://github.com/weuritz8u/Tech-Tricks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" alt="Tech-Tricks"></a>
 <!-- Date Calculator --> <a href="https://github.com/weuritz8u/date-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator" alt="Date Calculator"></a>
 
 <h2>My Github Stats</h2>
