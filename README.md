@@ -9,9 +9,7 @@
 
 <h4>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</h4>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Always+eepy">
-<br>
-<img src="https://readme-typing-svg.herokuapp.com?size=30&lines=Need+to+sleep!">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=Always+eepy+!!!;Need+to+sleep+!!!" alt="Typing SVG" /></a>
 
 <p>📫 Reach me via</p>
 <ul>
