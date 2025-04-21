@@ -57,9 +57,9 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <h3>My Webpages</h3>
 
-<a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> | <a href="https://shadowdara.github.io/Pages-Uptime">Uptime</a>
+<a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> | <a href="https://weuritz8u.github.io/upptime">Uptime</a>
 
-<h4>Some of my webpages not working? <a href="https://shadowdara.github.io/Pages-Uptime"><i>Check here</i></a></h4>
+<h4>Some of my webpages not working? <a href="https://weuritz8u.github.io/upptime"><i>Check here</i></a></h4>
 
 <h3>📫 Reach me via</h3>
 <ul>
