@@ -15,14 +15,7 @@
 https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&vCenter=true&random=true&lines=Always+eepy+!!!;Need+to+sleep+!!!
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=creating+fucked+up+code" alt="Typing SVG" /></a>
-
-<p>📫 Reach me via</p>
-<ul>
-  <li>Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>)</li>
-  <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
-  <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>-->
-</ul>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=creating+messed+up!+code;mastering+the+chaos!" alt="Typing SVG" /></a>
 
 <h2>Projects I am Proud of</h2>
 
@@ -55,6 +48,13 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> <!--| <a>Blog</a>-->
 
 <h4>Some of my webpages not working? <a href="https://shadowdara.github.io/Pages-Uptime"><i>Check here</i></a></h4>
+
+<h3>📫 Reach me via</h3>
+<ul>
+  <li>Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>)</li>
+  <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
+  <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>-->
+</ul>
 
 <br>
 
