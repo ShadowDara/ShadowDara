@@ -31,7 +31,19 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple">
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF">
+
+<picture>
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=FFE1FA&color=B20097&line=FF00D8&point=B20097"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF" />
+</picture>
+
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
