@@ -9,7 +9,13 @@
 
 <h4>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</h4>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=Always+eepy+!!!;Need+to+sleep+!!!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=Always+eepy;Need+to+sleep+!!" alt="Typing SVG" /></a>
+
+<!--
+https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&vCenter=true&random=true&lines=Always+eepy+!!!;Need+to+sleep+!!!
+-->
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=creating+fucked+up+code" alt="Typing SVG" /></a>
 
 <p>📫 Reach me via</p>
 <ul>
