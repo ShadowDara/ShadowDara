@@ -28,7 +28,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=shadowdara">
 <br>
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true">
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&exclude_repo=Pages-Uptime&langs_count=8&hide=markdown,ini">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini">
 <br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple">
 <br>
@@ -84,7 +84,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=weuritz8u">
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown,text" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown,text&exclude_repo=upptime" alt="Top languages">
 <br>
 <img height=200 src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="Streak">
@@ -103,6 +103,6 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <details><summary><i>Full lang stats</i></summary><br>
 <p><b>Shadowdara | weuritz8u</b></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&exclude_repo=Pages-Uptime&langs_count=20">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=20&exclude_repo=upptime">
 </details>
