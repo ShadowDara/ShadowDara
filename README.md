@@ -18,9 +18,10 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=creating+messed+up!+code;mastering+the+chaos!" alt="Typing SVG" /></a>
 
 <h2>Projects I am Proud of</h2>
-
-<!-- Tech-Tricks --> <a href="https://github.com/weuritz8u/Tech-Tricks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" alt="Tech-Tricks"></a>
-<!-- Date Calculator --> <a href="https://github.com/weuritz8u/date-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator" alt="Date Calculator"></a>
+<div>
+  <!-- Tech-Tricks --> <a href="https://github.com/weuritz8u/Tech-Tricks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" alt="Tech-Tricks"></a>
+  <!-- Date Calculator --> <a href="https://github.com/weuritz8u/date-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator" alt="Date Calculator"></a>
+</div>
 
 <h2>My Github Stats</h2>
 
@@ -50,8 +51,9 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <br><br>
 
 <h2>More of my Projects</h2>
-
-<!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" alt="Repo Database Creator"></a>
+<div>
+  <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" alt="Repo Database Creator"></a>
+</div>
 
 <br>
 
@@ -67,6 +69,14 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
   <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
   <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>-->
 </ul>
+
+<br>
+
+<h2>My Templates</h2>
+
+<div>
+  <!-- tauri-configfile-template --> <a href="https://github.com/ShadowDara/tauri-configfile-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template" alt="tauri-configfile-template"></a>
+</div>
 
 <br>
 
