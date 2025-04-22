@@ -33,7 +33,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <h2>Projects I am Proud of</h2>
 <div>
-  <!-- Tech-Tricks --> <a href="https://github.com/weuritz8u/Tech-Tricks">
+  <!-- Tech-Tricks --> <a href="https://github.com/shadowdara/Tech-Tricks">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks"
@@ -46,7 +46,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" />
   </picture>
   </a>
-  <!-- Date Calculator --> <a href="https://github.com/weuritz8u/date-calculator">
+  <!-- Date Calculator --> <a href="https://github.com/shadowdara/date-calculator">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator"
