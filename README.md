@@ -134,7 +134,19 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <h2>More of my Projects</h2>
 <div>
-  <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" alt="Repo Database Creator"></a>
+  <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator">
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator&bg_color=FFE1FA&text_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" />
+    </picture>
+  </a>
 </div>
 
 <br>
@@ -166,7 +178,19 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <h2>My Templates</h2>
 
 <div>
-  <!-- tauri-configfile-template --> <a href="https://github.com/ShadowDara/tauri-configfile-template"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template" alt="tauri-configfile-template"></a>
+  <!-- tauri-configfile-template --> <a href="https://github.com/ShadowDara/tauri-configfile-template">
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template&bg_color=FFE1FA&text_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template" alt="tauri-configfile-template"/>
+    </picture>
+  </a>
 </div>
 
 <br>
