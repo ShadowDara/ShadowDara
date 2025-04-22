@@ -1,27 +1,44 @@
-<!-- Sorry for writing this in HTML! -->
+<!-- Sorry for writing this in HTML!
 
-<!-- written by Shadowdara -->
-<!-- https://github.com/shadowdara/shadowdara -->
+written by Shadowdara
+https://github.com/shadowdara/shadowdara
+
+This is the README.md file for my personal Github profile
+
+-->
+
 
 <div align="center">
+
+
+<!-- Introduction Text -->
 
 <h1><a href="https://tenor.com/view/girlkisser-gif-954928936650434423">Hey :3<a></h1>
 
 <h4>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</h4>
 
+
+<!-- Typing SVGs -->
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=Always+eepy;Need+to+sleep+!!" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=creating+messed+up!+code;mastering+the+chaos!" alt="Typing SVG" /></a>
 
 <!--
 https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&vCenter=true&random=true&lines=Always+eepy+!!!;Need+to+sleep+!!!
 -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=9745F5&center=true&vCenter=true&random=true&width=435&lines=creating+messed+up!+code;mastering+the+chaos!" alt="Typing SVG" /></a>
+
+<!-- My Showcase Projects -->
 
 <h2>Projects I am Proud of</h2>
 <div>
   <!-- Tech-Tricks --> <a href="https://github.com/weuritz8u/Tech-Tricks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" alt="Tech-Tricks"></a>
   <!-- Date Calculator --> <a href="https://github.com/weuritz8u/date-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator" alt="Date Calculator"></a>
 </div>
+
+
+<!-- My Github Stats -->
 
 <h2>My Github Stats</h2>
 
@@ -50,6 +67,9 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
 <br><br>
 
+
+<!-- Good Project List -->
+
 <h2>More of my Projects</h2>
 <div>
   <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" alt="Repo Database Creator"></a>
@@ -57,11 +77,17 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <br>
 
+
+<!-- My own Webpages -->
+
 <h3>My Webpages</h3>
 
 <a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> | <a href="https://weuritz8u.github.io/upptime">Uptime</a>
 
 <h4>Some of my webpages not working? <a href="https://weuritz8u.github.io/upptime"><i>Check here</i></a></h4>
+
+
+<!-- Contact Information -->
 
 <h3>📫 Reach me via</h3>
 <ul>
@@ -72,6 +98,9 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <br>
 
+
+<!-- My Project Templates -->
+
 <h2>My Templates</h2>
 
 <div>
@@ -79,6 +108,9 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 </div>
 
 <br>
+
+
+<!-- stats for weuritz8u -->
 
 <h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
 <details><summary><b>Here</b></summary><br>
@@ -101,8 +133,41 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 </div>
 
+
+<!-- Full Lang Stats -->
+
 <details><summary><i>Full lang stats</i></summary><br>
 <p><b>Shadowdara | weuritz8u</b></p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&&langs_count=20">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=20&exclude_repo=upptime">
 </details>
+
+
+<!-- Repository Data Changes -->
+
+<details><summary>Changes</summary>
+<br>
+<h3>Changes</h3>
+<b><i>INFO: Sometimes i am reorganising my little script project and moving them to other projects / creating a collection for them!</i></b>
+<h4>Last</h4>
+<ul>
+	<li>deleted a lot of scripts Repositorys and moved their code to <a href="https://github.com/weuritz8u/Tech-Tricks">Tech-Tricks</a></li>
+	<li>Moved my Minecraft Projects to <a href="https://github.com/weuritz8u">weuritz8u</a></li>
+	<li><b>Minecraft Projects:
+	<ul>
+		<li><a href="https://github.com/weuritz8u/storage-datapack">storage-datapack</a></li>
+		<li><a href="https://github.com/weuritz8u/no-elytra-boost">no-elytra-boost</a></li>
+		<li><a href="https://github.com/weuritz8u/storage-recource-pack">storage-recource-pack</a></li>
+		<li><a href="https://github.com/weuritz8u/Modrinth-Packs">Modrinth-Packs</a></li>
+		<li><a href="https://github.com/weuritz8u/throwable-rp">throwable-rp</a></li>
+	</ul></li>
+	<li>Some other Minecraft Repositorys are deleted and moved to <a href="https://github.com/weuritz8u/Modrinth-Packs">Modrinth-Packs</a></li>
+</ul>
+</details>
+
+<p><b>INFO</b> you can click on the little triangles to open a paragraph!</p>
+
+
+<!-- This is the End of the README.md file -->
+
+<!-- I hope your are not seeing this lol :3 -->
