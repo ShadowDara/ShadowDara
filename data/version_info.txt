@@ -1,0 +1,25 @@
+Json Version Block
+
+"date-calculator-desktop": {
+            "web_url": "",
+            "autoupdate_supported": false,
+            "newest": {
+                "version_number": 0,
+                "version_name": "",
+                "version_typy": "stable",
+                "changelog": "",
+                "download_url": "",
+                "last_updated": "",
+                "mandatory": false,
+                "min_version": 1,
+                "platforms": "",
+                "size_mb": "",
+                "release_notes_url": ""
+            },
+            "available_versions": [
+                {}
+            ]
+        }
+
+für version hinzufügen, einfach den block aus newest
+rauskopieren!
