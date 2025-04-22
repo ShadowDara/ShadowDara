@@ -8,13 +8,13 @@
 
 <p><i>My Collection for Dark Pictures, GIFs and other Stuff!</i></p>
 
-<img src="https://tenor.com/view/anime-gif-25796858.gif">
-<img src="https://tenor.com/view/hello-gif-25378147.gif">
-<img src="https://tenor.com/view/anime-gif-21593208.gif">
-<img src="https://tenor.com/view/lycoris-recoil-lycoris-lecoreco-anime-girl-cute-anime-girl-gif-11274551799585211621.gif">
-<img src="https://tenor.com/view/lycoris-recoil-lycoris-lecoreco-anime-girl-cute-anime-girl-gif-14719765150663142128.gif">
-<img src="https://in.pinterest.com/pin/986288387139678100/">
+<img src="https://i.pinimg.com/originals/ef/4d/63/ef4d6314de10e0ba7c356053b5aa8037.jpg"><br>
+<img src="https://tenor.com/view/anime-gif-25796858.gif"><br>
+<img src="https://tenor.com/view/hello-gif-25378147.gif"><br>
+<img src="https://tenor.com/view/anime-gif-21593208.gif"><br>
+<img src="https://tenor.com/view/lycoris-recoil-lycoris-lecoreco-anime-girl-cute-anime-girl-gif-11274551799585211621.gif"><br>
+<img src="https://tenor.com/view/lycoris-recoil-lycoris-lecoreco-anime-girl-cute-anime-girl-gif-14719765150663142128.gif"><br>
 
 </div>
 
-<h1><i><a href="https://github.com/shadowdara">Back</a></i></h1>
+<p><i><a href="https://github.com/shadowdara">Back</a></i></p>
