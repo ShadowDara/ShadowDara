@@ -40,7 +40,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks&bg_color=FFE1FA&text_color=FF00D8"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" />
@@ -53,7 +53,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator&bg_color=FFE1FA&text_color=FF00D8"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator" />
@@ -76,7 +76,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&text_color=FF00D8"
+    srcset="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true" />
@@ -88,7 +88,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&bg_color=FFE1FA&text_color=FF00D8&langs_count=8&hide=markdown,ini"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&bg_color=FFE1FA&text_color=000000&title_color=FF00D8&langs_count=8&hide=markdown,ini"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini" />
@@ -102,7 +102,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple&bg_color=FFE1FA&color=B20097"
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&background=FFE1FA&text_color=000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shadowdara&theme=midnight-purple" />
@@ -116,14 +116,25 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=FFE1FA&color=B20097&line=FF00D8&point=B20097"
+    srcset="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=FFE1FA&color=FF00D8&line=FF00D8&point=B20097"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shadowdara&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF" />
 </picture>
 
 <br>
-<img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=shadowdara&margin-w=15&margin-h=15"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
+</picture>
+
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
 <br><br>
 
@@ -139,7 +150,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator&bg_color=FFE1FA&text_color=FF00D8"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" />
@@ -183,7 +194,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template&bg_color=FFE1FA&text_color=FF00D8"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template" alt="tauri-configfile-template"/>
