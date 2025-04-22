@@ -178,7 +178,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <!-- only able to see with Darkmode! -->
 
 <div align="center">
-
+<br>
 <a href="https://github.com/ShadowDara/ShadowDara/blob/main/data/DARK.md">
 <picture>
   <source
