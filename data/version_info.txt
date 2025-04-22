@@ -23,3 +23,5 @@ Json Version Block
 
 für version hinzufügen, einfach den block aus newest
 rauskopieren!
+
+https://raw.githubusercontent.com/ShadowDara/ShadowDara/refs/heads/main/data/versions.json
