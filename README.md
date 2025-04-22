@@ -81,7 +81,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <br>
 
 <h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
-
+<details><summary><b>Here</b></summary><br>
 <img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=weuritz8u">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown,text&exclude_repo=upptime" alt="Top languages">
@@ -92,8 +92,8 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=weuritz8u&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF" alt="Activity graph">
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
-
 <p><i>Dont ask why i have 2, i now its stupid ;)</i></p>
+</details>
 
 <br>
 
