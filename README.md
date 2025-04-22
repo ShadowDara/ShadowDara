@@ -146,7 +146,6 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <!-- Repository Data Changes -->
 
 <details><summary>Changes</summary>
-<br>
 <h3>Changes</h3>
 <b><i>INFO: Sometimes i am reorganising my little script project and moving them to other projects / creating a collection for them!</i></b>
 <h4>Last</h4>
