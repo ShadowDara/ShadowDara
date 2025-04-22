@@ -35,8 +35,32 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <h2>Projects I am Proud of</h2>
 <div>
-  <!-- Tech-Tricks --> <a href="https://github.com/weuritz8u/Tech-Tricks"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" alt="Tech-Tricks"></a>
-  <!-- Date Calculator --> <a href="https://github.com/weuritz8u/date-calculator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator" alt="Date Calculator"></a>
+  <!-- Tech-Tricks --> <a href="https://github.com/weuritz8u/Tech-Tricks">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks&bg_color=FFE1FA&text_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" />
+  </picture>
+  </a>
+  <!-- Date Calculator --> <a href="https://github.com/weuritz8u/date-calculator">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator&bg_color=FFE1FA&text_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=date-calculator" />
+  </picture>
+  </a>
 </div>
 
 
