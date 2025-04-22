@@ -284,7 +284,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=ED42FF&center=true&vCenter=true&random=true&width=435&lines=X+LIGHTMODE+X"
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=ED42FF&center=true&vCenter=true&random=true&width=435&lines=XX+LIGHTMODE+XX"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=ED42FF&center=true&vCenter=true&random=true&width=435&lines=XXX+LIGHTMODE+XXX" />
