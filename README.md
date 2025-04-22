@@ -17,7 +17,7 @@ This is the README.md file for my personal Github profile
 
 <img src="https://tenor.com/view/lycoris-recoil-lycoris-lecoreco-anime-girl-cute-anime-girl-gif-11274551799585211621.gif">
 
-<h4>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</h4>
+<h3><b>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</b></h3>
 
 
 <!-- Typing SVGs -->
