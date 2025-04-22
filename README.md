@@ -15,8 +15,6 @@ This is the README.md file for my personal Github profile
 
 <h1>Hey :3</h1> <!-- ADD COLLECTION FOR DAKR!!! -->
 
-<img height="250" src="https://i.pinimg.com/736x/b2/7f/bb/b27fbb26f0a3849a466bf0e8fa722cc6.jpg">
-
 <h3><b>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</b></h3>
 
 
@@ -211,13 +209,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <br>
 <img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
 <p><i>Dont ask why i have 2, i now its stupid ;)</i></p>
-</details>
-
-<br>
-
-<p>💞️ I’m looking to be myself <b>D:</b>
-
-</div>
+</details></div>
 
 
 <!-- Triangel Content -->
@@ -254,6 +246,17 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 	<li>Some other Minecraft Repositorys are deleted and moved to <a href="https://github.com/weuritz8u/Modrinth-Packs">Modrinth-Packs</a></li>
 	<li><i>("Last" because i made this afterwards and i dont remember the date anymore!)</i></li>
 </ul>
+</details>
+
+
+<!-- Me -->
+
+<details><summary>Me</summary>
+<div align="center"><br>
+<img height="250" src="https://i.pinimg.com/736x/b2/7f/bb/b27fbb26f0a3849a466bf0e8fa722cc6.jpg">
+<br><br>
+<p>💞️ I’m looking to be myself <b>D:</b>
+</div>
 </details>
 
 <p><b>INFO</b> you can click on the little triangles to open a paragraph!</p>
