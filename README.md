@@ -134,6 +134,11 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 </div>
 
 
+<!-- Triangel Content -->
+
+<h3> More</h3>
+
+
 <!-- Full Lang Stats -->
 
 <details><summary><i>Full lang stats</i></summary><br>
