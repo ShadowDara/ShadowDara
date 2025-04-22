@@ -13,7 +13,9 @@ This is the README.md file for my personal Github profile
 
 <!-- Introduction Text -->
 
-<h1><a href="https://tenor.com/view/girlkisser-gif-954928936650434423">Hey :3<a></h1>
+<h1>Hey :3</h1> <!-- ADD COLLECTION FOR DAKR!!! -->
+
+<img src="https://tenor.com/view/lycoris-recoil-lycoris-lecoreco-anime-girl-cute-anime-girl-gif-11274551799585211621.gif">
 
 <h4>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</h4>
 
