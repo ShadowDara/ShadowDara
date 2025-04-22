@@ -175,6 +175,23 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <p><b>INFO</b> you can click on the little triangles to open a paragraph!</p>
 
 
+<!-- only able to see with Darkmode! -->
+
+<a href="https://github.com/ShadowDara/ShadowDara/blob/main/data/DARK.md">
+<picture>
+  <source
+    srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=ED42FF&center=true&vCenter=true&random=true&width=435&lines=DARKMODE"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset=""
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="" />
+</picture>
+</a>
+
+
 <!-- This is the End of the README.md file -->
 
 <!-- I hope your are not seeing this lol :3 -->
