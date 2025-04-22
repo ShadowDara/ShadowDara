@@ -54,7 +54,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&color=B20097"
+    srcset="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&text_color=FF00D8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img height=200 src="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true" />
@@ -66,10 +66,10 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini&bg_color=FFE1FA&color=B20097"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&bg_color=FFE1FA&text_color=FF00D8&langs_count=8&hide=markdown,ini"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini" />
 </picture>
 
 <br>
