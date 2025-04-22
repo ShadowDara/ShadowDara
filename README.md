@@ -15,7 +15,7 @@ This is the README.md file for my personal Github profile
 
 <h1>Hey :3</h1> <!-- ADD COLLECTION FOR DAKR!!! -->
 
-<img src="https://tenor.com/view/lycoris-recoil-lycoris-lecoreco-anime-girl-cute-anime-girl-gif-11274551799585211621.gif">
+<img height="250" src="https://i.pinimg.com/736x/b2/7f/bb/b27fbb26f0a3849a466bf0e8fa722cc6.jpg">
 
 <h3><b>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</b></h3>
 
