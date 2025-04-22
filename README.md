@@ -231,7 +231,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 </details>
 
 <details><summary>Me</summary>
-<div align="center"
+<div align="center">
 <img height="250" src="https://i.pinimg.com/736x/b2/7f/bb/b27fbb26f0a3849a466bf0e8fa722cc6.jpg">
 </div>
 </details>
