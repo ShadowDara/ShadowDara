@@ -200,6 +200,19 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template" alt="tauri-configfile-template"/>
     </picture>
   </a>
+	<!-- no-fucking-cors --> <a href="https://github.com/ShadowDara/no-fucking-cors">
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=no-fucking-cors"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=no-fucking-cors&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=no-fucking-cors" alt="no-fucking-cors"/>
+    </picture>
+  </a>
 </div>
 
 <br>
