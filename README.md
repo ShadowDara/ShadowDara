@@ -15,7 +15,7 @@ This is the README.md file for my personal Github profile
 
 <h1>Hey :3</h1> <!-- ADD COLLECTION FOR DAKR!!! -->
 
-<h3><b>I am trying to make <code>WEB</code>, <code>Python</code> and <code>Tauri</code> Projects - learning develeper ;)</b></h3>
+<h3><b>Learning develeper / <code>Interrested in Tech</code> \ Always want to sth new!</b></h3>
 
 
 <!-- Typing SVGs -->
