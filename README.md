@@ -66,7 +66,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <h2>My Github Stats</h2>
 
-<img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=shadowdara">
+<img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=shadowdara&theme=daras_green">
 
 <br>
 
@@ -222,7 +222,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
 <details><summary><b>Here</b></summary><br>
-<img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=weuritz8u">
+<img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=weuritz8u&theme=daras_green">
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown,text&exclude_repo=upptime" alt="Top languages">
 <br>
