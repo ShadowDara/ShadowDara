@@ -68,9 +68,9 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=shadowdara&theme=daras_green">
 <img src="https://repo-database-creator.vercel.app/api/svg/gist_count?user=shadowdara&theme=daras_green">
-
 <br>
 
+![](https://repo-database-creator.vercel.app/api/svg/age_medal?user=shadowdara)
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Shadowdara&theme=midnight-purple&show_icons=true"
