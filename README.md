@@ -136,6 +136,8 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
   <img src="https://github-profile-trophy.vercel.app/?username=shadowdara&theme=algolia&margin-w=15&margin-h=15">
 </picture>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadowdara&theme=midnight_purple" >
+
 <img src="https://hits.sh/github.com/shadowdara/shadowdara.svg?style=for-the-badge&label=Profile%20Views&color=white&labelColor=black&logo=github">
 <br><br>
 
