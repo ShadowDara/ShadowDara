@@ -220,7 +220,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 
 <!-- stats for weuritz8u -->
-
+<!--
 <h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
 <details><summary><b>Here</b></summary><br>
 <img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=weuritz8u&theme=daras_green">
@@ -236,7 +236,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
 <p><i>Dont ask why i have 2, i now its stupid ;)</i></p>
 </details></div>
-
+-->
 
 <!-- Triangel Content -->
 
@@ -253,7 +253,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 
 <!-- Me -->
-
+<!--
 <details><summary>Me</summary>
 <div align="center"><br>
 <img height="250" src="https://i.pinimg.com/736x/b2/7f/bb/b27fbb26f0a3849a466bf0e8fa722cc6.jpg">
@@ -263,7 +263,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 </details>
 
 <p><b>INFO</b> you can click on the little triangles to open a paragraph!</p>
-
+-->
 
 <!-- only able to see with Darkmode! -->
 
