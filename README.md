@@ -32,7 +32,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <!-- My Showcase Projects -->
 
 <h2 align="left">Projects I am Proud of</h2>
-<div align="left">
+<div>
   <!-- dpack --> <a href="https://github.com/shadowdara/dpack">
   <picture>
     <source
@@ -73,7 +73,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 	<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
 	<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -103,14 +103,49 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <!-- Contact Information -->
 
-<h2>📫 Reach me via</h2>
-<ul>
-  <li>Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>)</li>
-  <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
-  <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>-->
-</ul>
+<h2>📫 My Socials etc</h2>
+<p align="left">
+<!-- Email reacheme.shadowdara+github@gmail.com -->
+<a href="mailto:reacheme.shadowdara+github@gmail.com"><img align="center" height="30" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" /></a>
+<!-- Discord Shadowdara -->
+<a href="https://discord.gg/9Jh8B8pkJa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9Jh8B8pkJa" height="30" width="40" /></a>
+<!--
+<a href=""><img align="center" height="30" src=""></a>
+-->
 </div>
-<br>
+
+
+<!-- Good Project List -->
+
+<h2 align="left">More of my Projects</h2>
+<div>
+  <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator">
+    <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" />
+    </picture>
+  </a>
+<!-- Tech-Tricks --> <a href="https://github.com/shadowdara/Tech-Tricks">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" />
+  </picture>
+  </a>
+</div>
 
 
 <!-- My Github Stats -->
@@ -195,41 +230,6 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <br><br>
 
 
-<!-- Good Project List -->
-
-<h2>More of my Projects</h2>
-<div>
-  <!-- Repo Database Creator --> <a href="https://github.com/ShadowDara/repo-database-creator">
-    <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" />
-    </picture>
-  </a>
-<!-- Tech-Tricks --> <a href="https://github.com/shadowdara/Tech-Tricks">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" />
-  </picture>
-  </a>
-</div>
-
-<br>
-
-
 <!-- My own Webpages -->
 
 <h3>My Webpages</h3>
@@ -242,7 +242,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <!-- My Project Templates -->
 
-<h2>My Templates</h2>
+<h2 align="left">My Templates</h2>
 
 <div>
   <!-- tauri-configfile-template --> <a href="https://github.com/ShadowDara/tauri-configfile-template">
