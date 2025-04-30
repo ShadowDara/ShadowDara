@@ -28,10 +28,11 @@ This is the README.md file for my personal Github profile
 https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&vCenter=true&random=true&lines=Always+eepy+!!!;Need+to+sleep+!!!
 -->
 
+
 <!-- My Showcase Projects -->
 
-<h2>Projects I am Proud of</h2>
-<div>
+<h2 align="left">Projects I am Proud of</h2>
+<div align="left">
   <!-- dpack --> <a href="https://github.com/shadowdara/dpack">
   <picture>
     <source
@@ -63,9 +64,58 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <!-- My Skills -->
 
+<h2 align="left">My Skills, Languages and Tools:</h2>
+<p align="left">
+	<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/></a>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+	<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/></a>
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+	<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+	<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+	<a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
+	<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+	<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+	<a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/></a>
+	<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
+	<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
+</p>
+
+
+<!-- About me -->
+<div align="left">
+<h2 align="left">About me</h2>
+
+- 👋 I'm Shadowdara
+
+- 🔭 I’m currently working on **organizing my project to an organisized List**
+
+- 🌱 I’m currently learning **making an complete own application**
+
+- 🤝 I’m looking for help with **my rust skills 💀**
+
+- 👨‍💻 All of my projects are available at - *List coming hopefully soon :(*
+
+- 💬 Ask me about **what you want :3**
+
+
+<!-- Contact Information -->
+
+<h2>📫 Reach me via</h2>
+<ul>
+  <li>Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>)</li>
+  <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
+  <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>-->
+</ul>
+</div>
+<br>
 
 
 <!-- My Github Stats -->
+
+*Enjoy my stats :3*
 
 <h2>My Github Stats</h2>
 
@@ -187,17 +237,6 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> | <a href="https://weuritz8u.github.io/upptime">Uptime</a>
 
 <h4>Some of my webpages not working? <a href="https://weuritz8u.github.io/upptime"><i>Check here</i></a></h4>
-
-
-<!-- Contact Information -->
-
-<h3>📫 Reach me via</h3>
-<ul>
-  <li>Discord (<b><i><a href="https://discord.gg/9Jh8B8pkJa">Shadowdara</a></i></b>)</li>
-  <li><b><a href="mailto:reacheme.shadowdara+github@gmail.com">Email - <i>reacheme.shadowdara+github@gmail.com</i></a></b></li>
-  <!--<li><b><a href="https://t.me/shadowdara">Telegram</a></b></li>-->
-</ul>
-
 <br>
 
 
