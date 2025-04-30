@@ -15,7 +15,7 @@ This is the README.md file for my personal Github profile
 
 <h1>Hey :3</h1> <!-- ADD COLLECTION FOR DAKR!!! -->
 
-<h3><b>Learning develeper / <code>Interrested in Tech</code> \ Always want to sth new!</b></h3>
+<h3><b>Learning develeper | <code>Interrested in Tech</code> | Always want to learn sth new!</b></h3>
 
 
 <!-- Typing SVGs -->
@@ -28,22 +28,21 @@ This is the README.md file for my personal Github profile
 https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&vCenter=true&random=true&lines=Always+eepy+!!!;Need+to+sleep+!!!
 -->
 
-
 <!-- My Showcase Projects -->
 
 <h2>Projects I am Proud of</h2>
 <div>
-  <!-- Tech-Tricks --> <a href="https://github.com/shadowdara/Tech-Tricks">
+  <!-- dpack --> <a href="https://github.com/shadowdara/dpack">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=dpack"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=dpack&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=dpack" />
   </picture>
   </a>
   <!-- Date Calculator --> <a href="https://github.com/shadowdara/date-calculator">
@@ -60,6 +59,10 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
   </picture>
   </a>
 </div>
+
+
+<!-- My Skills -->
+
 
 
 <!-- My Github Stats -->
@@ -158,6 +161,19 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
     />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=repo-database-creator" />
     </picture>
+  </a>
+<!-- Tech-Tricks --> <a href="https://github.com/shadowdara/Tech-Tricks">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=Tech-Tricks" />
+  </picture>
   </a>
 </div>
 
