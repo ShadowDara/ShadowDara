@@ -150,8 +150,6 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <!-- My Github Stats -->
 
-*Enjoy my stats :3*
-
 <h2>My Github Stats</h2>
 
 <img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=shadowdara&theme=daras_green">
@@ -275,25 +273,6 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <br>
 
-
-<!-- stats for weuritz8u -->
-<!--
-<h2>Stats for 2nd Github Account - <i><a href="https://github.com/weuritz8u">weuritz8u</a></i></h2>
-<details><summary><b>Here</b></summary><br>
-<img src="https://repo-database-creator.vercel.app/api/svg/repo_count?user=weuritz8u&theme=daras_green">
-<img src="https://repo-database-creator.vercel.app/api/svg/gist_count?user=shadowdara&theme=daras_green">
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&hide=markdown,text&exclude_repo=upptime" alt="Top languages">
-<br>
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=weuritz8u&theme=midnight-purple&show_icons=true" alt="Stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=weuritz8u&theme=midnight-purple" alt="Streak">
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=weuritz8u&bg_color=000000&color=9745f5&line=9745f5&point=FFFFFF" alt="Activity graph">
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=weuritz8u&theme=algolia&margin-w=15&margin-h=15" alt="Trophies">
-<p><i>Dont ask why i have 2, i now its stupid ;)</i></p>
-</details></div>
--->
 
 <!-- Triangel Content -->
 
