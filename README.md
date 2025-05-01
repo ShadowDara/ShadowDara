@@ -84,6 +84,29 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 </p>
 
 
+<!-- Troll Go -->
+<div align="left">
+
+---
+	
+```go
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Go outside!")
+}
+```
+
+<h4>Output</h4>
+
+```
+Go outside!
+```
+
+</div>
+
 <!-- About me -->
 <div align="left">
 <h2 align="left">About me</h2>
