@@ -135,6 +135,10 @@ Go outside!
 <a href="mailto:reacheme.shadowdara+github@gmail.com"><img align="center" height="30" src="https://cdn.pixabay.com/photo/2016/06/13/17/30/mail-1454731_640.png" /></a>
 <!-- Discord Shadowdara -->
 <a href="https://discord.gg/9Jh8B8pkJa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9Jh8B8pkJa" height="30" width="40" /></a>
+<!-- Instagram -->
+<a href="https://instagram.com/shadowdara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shadowdara" height="30" width="40" /></a>
+<!-- Youtube -->
+<a href="https://www.youtube.com/c/shadowdara69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shadowdara69" height="30" width="40" /></a>
 <!--
 <a href=""><img align="center" height="30" src=""></a>
 -->
