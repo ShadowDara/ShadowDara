@@ -105,6 +105,8 @@ func main() {
 Go outside!
 ```
 
+*my process in learning go*
+
 </div>
 
 <!-- About me -->
