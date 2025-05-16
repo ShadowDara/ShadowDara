@@ -326,7 +326,11 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 </div>
 
-
 <!-- This is the End of the README.md file -->
 
 <!-- I hope your are not seeing this lol :3 -->
+
+<br>
+
+<p align="left">random Quote:</p>
+<pre align="left"><b>Everything is war!</b> - <i>Nokt</i></pre>
