@@ -288,7 +288,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <details><summary><i>Full lang stats</i></summary><br>
 <p><b>Shadowdara | weuritz8u</b></p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&layout=compact&theme=midnight-purple&langs_count=20&hide=markdown,json">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weuritz8u&theme=midnight-purple&layout=compact&langs_count=20&exclude_repo=upptime">
 </details>
 
