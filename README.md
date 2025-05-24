@@ -249,17 +249,17 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 <h2 align="left">My Templates</h2>
 
 <div>
-  <!-- tauri-configfile-template --> <a href="https://github.com/ShadowDara/tauri-configfile-template">
+  <!-- collection --> <a href="https://github.com/ShadowDara/collection">
     <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=collection"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+      srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=collection&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=tauri-configfile-template" alt="tauri-configfile-template"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&theme=midnight-purple&repo=collection" alt="collection"/>
     </picture>
   </a>
 	<!-- no-fucking-cors --> <a href="https://github.com/ShadowDara/no-fucking-cors">
