@@ -238,7 +238,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <h3>My Webpages</h3>
 
-<a href="https://shadowdara.github.io">Home</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> | <a href="https://weuritz8u.github.io/upptime">Uptime</a>
+<a href="https://shadowdara.github.io">Home / Personal Page</a> | <a href="https://shadowdara.github.io/date-calculator">Date Calculator</a> | <a href="https://shadowdara.github.io/upptime">Upptime</a>
 
 <h4>Some of my webpages not working? <a href="https://weuritz8u.github.io/upptime"><i>Check here</i></a></h4>
 <br>
