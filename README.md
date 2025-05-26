@@ -184,6 +184,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <br>
 
+<!--
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=donut&theme=midnight-purple&hide=markdown,ini"
@@ -207,6 +208,7 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
   />
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&size_weight=0.5&count_weight=0.5&exclude_repo=upptime&layout=donut&theme=midnight-purple&hide=markdown,ini" />
 </picture>
+-->
 
 <br>
 
