@@ -186,26 +186,26 @@ https://readme-typing-svg.herokuapp.com/demo/?size=35&color=9745F5&center=true&v
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=donut&theme=midnight-purple&langs_count=8&hide=markdown,ini"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=donut&theme=midnight-purple&hide=markdown,ini"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=donut&theme=midnight-purple&bg_color=FFE1FA&text_color=000000&title_color=FF00D8&langs_count=8&hide=markdown,ini"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=donut&theme=midnight-purple&bg_color=FFE1FA&text_color=000000&title_color=FF00D8&hide=markdown,ini"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=donut&theme=midnight-purple&langs_count=8&hide=markdown,ini" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=donut&theme=midnight-purple&hide=markdown,ini" />
 </picture>
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&size_weight=0.5&count_weight=0.5&exclude_repo=upptime&layout=donut&theme=midnight-purple&langs_count=8&hide=markdown,ini"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&size_weight=0.5&count_weight=0.5&exclude_repo=upptime&layout=donut&theme=midnight-purple&hide=markdown,ini"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&size_weight=0.5&count_weight=0.5&exclude_repo=upptime&layout=donut&theme=midnight-purple&bg_color=FFE1FA&text_color=000000&title_color=FF00D8&langs_count=8&hide=markdown,ini"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&size_weight=0.5&count_weight=0.5&exclude_repo=upptime&layout=donut&theme=midnight-purple&bg_color=FFE1FA&text_color=000000&title_color=FF00D8&hide=markdown,ini"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&size_weight=0.5&count_weight=0.5&exclude_repo=upptime&layout=donut&theme=midnight-purple&langs_count=8&hide=markdown,ini" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&size_weight=0.5&count_weight=0.5&exclude_repo=upptime&layout=donut&theme=midnight-purple&hide=markdown,ini" />
 </picture>
 
 <br>
