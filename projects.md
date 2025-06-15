@@ -1,6 +1,6 @@
 # Projects
 
-This an Overview for my projects, accounts, webpages, but currently work in progress.
+This an Overview for my projects, accounts, webpages, but currently work in progress. More Information about or links are on my [Linktree](https://linktr.ee/shadowdara).
 
 <!--$$MD_INDEX$$-->
 
