@@ -45,3 +45,10 @@ a little Autohotkey script to open `cmd.exe` in the same folder as the windows e
 My Personal Portfolio Page
 
 [Website Link](https://shadowdara.github.io/portfolio)
+
+
+## tauri-configfile-template
+
+a template for tauri 2.0 which automatically creates a settings file for you, which will be loaded on startup and be loaded via javascript into the frontend!
+
+[Source Repository](https://github.com/ShadowDara/Collection/tree/main/tauri-configfile-template)
