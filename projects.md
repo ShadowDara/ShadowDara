@@ -9,7 +9,7 @@ This an Overview for my projects, accounts, webpages, but currently work in prog
 
 a python script which converts 3ma files to a obj files
 
-[Code Repository](https://github.com/ShadowDara/3ma-to-obj-converter-python)
+[Source Repository](https://github.com/ShadowDara/3ma-to-obj-converter-python)
 
 
 ## Date Calculator
@@ -41,8 +41,7 @@ a website for my Minecraft Resource Packs, Datapack and Mods
 
 a little Autohotkey script to open `cmd.exe` in the same folder as the windows explorer when the explorer is the foreground while pressing `win + t` 
 
-[Repository](https://github.com/ShadowDara/open-cmd-on-Hotkey)
-
+[Source Repository](https://github.com/ShadowDara/open-cmd-on-Hotkey)
 
 
 ## tauri-configfile-template
