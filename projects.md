@@ -19,13 +19,6 @@ a website to calculate the time since a certain Data
 [Website Link](https://shadowdara.github.io/date-calculator)
 
 
-## Godot-Save-Template
-
-a project in the Godot Engine with configured file save for variables etc...
-
-[Source Repository](https://github.com/ShadowDara/Collection/tree/main/Godot-Save-Template)
-
-
 ## Minecraft Packs
 
 a website for my Minecraft Resource Packs, Datapack and Mods
