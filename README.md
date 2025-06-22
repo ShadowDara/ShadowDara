@@ -7,3 +7,5 @@
 -->
 
 I will make this file soon, until then check my portfolio on [shadowdara.github.io/portfolio](https://shadowdara.github.io/portfolio)!
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)
