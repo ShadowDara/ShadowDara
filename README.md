@@ -27,7 +27,7 @@ I will make this file soon, until then check my portfolio on [shadowdara.github.
 
 - 🌱 currently learning **making my own games**
 
-- 🔭 I’m currently working on my projects which aren't finished for decades
+- 🔭 currently trying finish my projects
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)
