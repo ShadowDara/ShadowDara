@@ -20,7 +20,7 @@
 
 -->
 
-I will make this file soon, until then check my portfolio on [shadowdara.github.io/portfolio](https://shadowdara.github.io/portfolio)!
+I wont update this file for ages, so my webstite on [shadowdara.github.io](https://shadowdara.github.io)!
 
 
 ## I'm
