@@ -20,7 +20,7 @@
 
 -->
 
-I wont update this file for ages, so my webstite on [shadowdara.github.io](https://shadowdara.github.io) or my [Linktree](https://linktr.ee/shadowdara)!
+I wont update this file for ages, so checkout my webstite on [shadowdara.github.io](https://shadowdara.github.io) or my [Linktree](https://linktr.ee/shadowdara)!
 
 ## I'm
 
