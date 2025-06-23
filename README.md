@@ -28,9 +28,9 @@ I wont update this file for ages, so checkout my webstite on [shadowdara.github.
 
 - 🔭 currently trying finish my projects
 
-
+<!--
 [![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)
-
+-->
 
 <picture>
   <source
