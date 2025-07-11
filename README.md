@@ -1,4 +1,4 @@
-# hey :3
+
 
 <!--
 
@@ -20,13 +20,15 @@
 
 -->
 
-I wont update this file for ages, so checkout my webstite on [shadowdara.github.io](https://shadowdara.github.io)!
+# hey :3
+
+feel free to browse my projects or [contact me](https://discord.com/users/843919195187183637) :)
 
 ## I'm
 
 - 🌱 currently learning **making my own games**
 
-- 🔭 currently trying finish my projects
+- 🔭 currently trying finish my projects ;)
 
 <!--
 [![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)
@@ -65,6 +67,9 @@ ASCII Text
 
 <a href="https://manytools.org/hacker-tools/ascii-banner/"></a>
 
-
 -->
 
+## Some Cool Stuff
+
+- [open cmd on Hotkey](https://github.com/ShadowDara/open-cmd-on-Hotkey)
+- [3ma to obj converter](https://github.com/ShadowDara/3ma-to-obj-converter-python)
