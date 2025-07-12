@@ -71,5 +71,6 @@ ASCII Text
 
 ## Some Cool Stuff
 
+- [scripts](https://github.com/shadowdara/scripts)
 - [open cmd on Hotkey](https://github.com/ShadowDara/open-cmd-on-Hotkey)
 - [3ma to obj converter](https://github.com/ShadowDara/3ma-to-obj-converter-python)
