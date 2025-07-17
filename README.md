@@ -69,6 +69,14 @@ ASCII Text
 
 -->
 
+## Currently Working on
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=xournalpp-plugin-hub-idea&theme=midnight-purple)](https://github.com/ShadowDara/xournalpp-plugin-hub-idea)
+
+</div>
+
 ## Some Cool Stuff
 
 - [scripts](https://github.com/shadowdara/scripts)
