@@ -22,6 +22,8 @@
 
 # hey :3
 
+I am a learning develeper, always searching for new projects,
+
 feel free to browse my projects or [contact me](https://discord.com/users/843919195187183637) :)
 
 ## I'm
@@ -69,7 +71,7 @@ ASCII Text
 
 -->
 
-## Currently Working on
+## Currently Working on ✨✨✨
 
 <div align="center">
 
@@ -89,7 +91,7 @@ ASCII Text
 
 </div>
 
-## Some Cool Stuff
+## Some Cool Stuff 🌟🌟🌟
 
 - [scripts](https://github.com/shadowdara/scripts)
 - [open cmd on Hotkey](https://github.com/ShadowDara/open-cmd-on-Hotkey)
