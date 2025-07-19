@@ -73,7 +73,19 @@ ASCII Text
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=xournalpp-plugin-hub-idea&theme=midnight-purple)](https://github.com/ShadowDara/xournalpp-plugin-hub-idea)
+<a href="https://github.com/ShadowDara/xournalpp-plugin-hub-idea">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=xournalpp-plugin-hub-idea&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=xournalpp-plugin-hub-idea&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=xournalpp-plugin-hub-idea&theme=midnight-purple" />
+</picture>
+</a>
 
 </div>
 
