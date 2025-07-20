@@ -20,6 +20,16 @@
 
 -->
 
+<!--
+
+Credits
+
+ASCII Text
+
+<a href="https://manytools.org/hacker-tools/ascii-banner/"></a>
+
+-->
+
 # hey :3
 
 I am a learning develeper, always searching for new projects,
@@ -67,16 +77,6 @@ feel free to browse my projects or [contact me](https://discord.com/users/843919
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini" />
 </picture>
 
-<!--
-
-Credits
-
-ASCII Text
-
-<a href="https://manytools.org/hacker-tools/ascii-banner/"></a>
-
--->
-
 ## Currently Working on ✨✨✨
 
 <div align="center">
@@ -95,6 +95,20 @@ ASCII Text
 </picture>
 </a>
 
+<a href="https://github.com/ShadowDara/FolderSize">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=FolderSize&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=FolderSize&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=FolderSize&theme=midnight-purple" />
+</picture>
+</a>
+
 </div>
 
 ## Some Cool Stuff 🌟🌟🌟
@@ -103,3 +117,13 @@ ASCII Text
 - [open cmd on Hotkey](https://github.com/ShadowDara/open-cmd-on-Hotkey)
 - [3ma to obj converter](https://github.com/ShadowDara/3ma-to-obj-converter-python)
 - [Shadow Path](https://github.com/shadowdara/shadow-paths)
+
+<!--
+
+<details><summary>TODO</summary>
+
+- [ ] automatic md index
+
+</details>
+
+-->
