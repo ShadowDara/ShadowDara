@@ -33,7 +33,13 @@ feel free to browse my projects or [contact me](https://discord.com/users/843919
 - 🔭 currently trying finish my projects ;)
 
 <!--
+
+<details><summary>Discord</summary>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)
+
+</details>
+
 -->
 
 <picture>
