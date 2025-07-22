@@ -77,6 +77,7 @@ feel free to browse my projects or [contact me](https://discord.com/users/843919
   <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=compact&theme=midnight-purple&langs_count=8&hide=markdown,ini" />
 </picture>
 
+
 ## Currently Working on ✨✨✨
 
 <div align="center">
@@ -111,8 +112,30 @@ feel free to browse my projects or [contact me](https://discord.com/users/843919
 
 </div>
 
-## Some Cool Stuff 🌟🌟🌟
 
+## Some Cool Stuff i made🌟🌟🌟
+<!--
+<div align="center">
+
+<a href="https://github.com/ShadowDara/checkstaticfiles">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=checkstaticfiles&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=checkstaticfiles&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=checkstaticfiles&theme=midnight-purple" />
+</picture>
+</a>
+
+</div>
+
+
+## More Stuff
+-->
 - [scripts](https://github.com/shadowdara/scripts)
 - [open cmd on Hotkey](https://github.com/ShadowDara/open-cmd-on-Hotkey)
 - [3ma to obj converter](https://github.com/ShadowDara/3ma-to-obj-converter-python)
