@@ -34,7 +34,7 @@ ASCII Text
 
 I am a learning develeper, always searching for new projects,
 
-feel free to browse my projects check my [webpage](shadowdara.github.io) or [contact me](https://discord.com/users/843919195187183637) :)
+feel free to browse my projects check my [webpage](https://shadowdara.github.io) or [contact me](https://discord.com/users/843919195187183637) :)
 
 ## I'm
 
