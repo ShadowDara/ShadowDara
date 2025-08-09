@@ -36,7 +36,7 @@ I am a learning develeper, always searching for new projects,
 
 feel free to browse my projects or [contact me](https://discord.com/users/843919195187183637) :)
 
-Check my [Website](https://shadowdara.github.io)
+Check my [Website](https://shadowdara.github.io)!
 
 ## I'm
 
