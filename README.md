@@ -96,6 +96,7 @@ feel free to browse my projects or [contact me](https://discord.com/users/843919
 </picture>
 </a>
 
+<!--
 <a href="https://github.com/ShadowDara/FolderSize">
 <picture>
   <source
@@ -109,6 +110,7 @@ feel free to browse my projects or [contact me](https://discord.com/users/843919
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=FolderSize&theme=midnight-purple" />
 </picture>
 </a>
+-->
 
 </div>
 
