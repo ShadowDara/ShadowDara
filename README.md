@@ -36,8 +36,6 @@ I am a learning develeper, always searching for new projects,
 
 feel free to browse my projects or [contact me](https://discord.com/users/843919195187183637) :)
 
-Check my [Website](https://shadowdara.github.io)!
-
 ## I'm
 
 - 🌱 currently learning **making my own games**
@@ -140,6 +138,7 @@ Check my [Website](https://shadowdara.github.io)!
 
 ## More Stuff
 -->
+- my [Website](https://shadowdara.github.io)!
 - [scripts](https://github.com/shadowdara/scripts)
 - [open cmd on Hotkey](https://github.com/ShadowDara/open-cmd-on-Hotkey)
 - [3ma to obj converter](https://github.com/ShadowDara/3ma-to-obj-converter-python)
