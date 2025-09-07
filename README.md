@@ -96,6 +96,20 @@ feel free to browse my projects or [contact me](https://discord.com/users/843919
 </picture>
 </a>
 
+<a href="https://github.com/ShadowDara/fs-tools">
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=fs-tools&theme=midnight-purple"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=fs-tools&theme=midnight-purple&show_icons=true&bg_color=FFE1FA&text_color=000000&title_color=FF00D8"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shadowdara&repo=fs-tools&theme=midnight-purple" />
+</picture>
+</a>
+
 <!--
 <a href="https://github.com/ShadowDara/FolderSize">
 <picture>
