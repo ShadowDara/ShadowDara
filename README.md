@@ -4,6 +4,8 @@ I am a learning develeper, always searching for new projects,
 
 feel free to browse my projects or [contact me](https://discord.com/users/843919195187183637) :)
 
+Projects -> [here](https://shadowdara.github.io/blog/2025/09/13/project-blog.html)
+
 ## I'm
 
 - 🌱 currently learning **making my own games**
