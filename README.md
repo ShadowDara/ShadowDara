@@ -4,7 +4,9 @@ I am a learning develeper, always searching for new projects,
 
 feel free to browse my projects or [contact me on discord](https://discord.com/users/843919195187183637) :)
 
-Projects -> [here](https://shadowdara.github.io/blog/2025/09/13/project-blog.html)
+[![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)
+
+#### My Projects are listed [here](https://shadowdara.github.io/blog/2025/09/13/project-blog.html)
 
 ## I'm
 
@@ -14,7 +16,7 @@ Projects -> [here](https://shadowdara.github.io/blog/2025/09/13/project-blog.htm
 
 <!--check [shadowdara.itch.io](https://shadowdara.itch.io) for my Games-->
 
-<!--[![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)-->
+<!--)-->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=compact&theme=midnight-purple&langs_count=6&hide=markdown,ini)
 
