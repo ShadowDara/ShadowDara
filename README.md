@@ -6,7 +6,7 @@ feel free to browse my projects or [contact me on discord](https://discord.com/u
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/843919195187183637)](https://discord.com/users/843919195187183637)
 
-#### My Projects are listed [here](https://shadowdara.github.io/blog/2025/09/13/project-blog.html)
+#### My Projects are listed [here](https://shadowdara.github.io/blog/2025/09/13/project-blog.html) and my **good projects [here](https://github.com/stars/ShadowDara/lists/favourite-projects)**
 
 ## I'm
 
