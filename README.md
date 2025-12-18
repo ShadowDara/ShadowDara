@@ -18,6 +18,16 @@ feel free to browse my projects or [contact me on discord](https://discord.com/u
 
 <!--)-->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=compact&theme=midnight-purple&langs_count=6&hide=markdown,ini)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=compact&theme=midnight-purple&langs_count=6)
 
 i will probably never update this
+
+<!--
+
+<details><summary>Full Lang stats</summary>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadowdara&exclude_repo=upptime&layout=compact&theme=midnight-purple&langs_count=20)
+
+</details>
+
+-->
