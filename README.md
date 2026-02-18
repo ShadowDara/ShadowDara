@@ -1,4 +1,4 @@
-# hey :3
+# hey ;)
 
 I am a learning develeper, always searching for new projects,
 
