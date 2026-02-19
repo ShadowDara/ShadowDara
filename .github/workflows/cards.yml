@@ -31,6 +31,7 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # For the Website
       - name: Generate top languages card White
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -61,6 +62,15 @@ jobs:
           card: pin
           options: username=shadowdara&repo=finder&theme=midnight-purple
           path: profile/finder.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # For the Website
+      - name: Finder Card White
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=shadowdara&repo=finder
+          path: profile/finder-white.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
