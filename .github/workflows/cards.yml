@@ -85,7 +85,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=shadowdara&repo=finder
+          options: username=shadowdara&repo=justLook
           path: profile/website/justLook-white.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
