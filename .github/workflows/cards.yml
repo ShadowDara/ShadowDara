@@ -81,12 +81,30 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # justLook White for the Website Projects
-      - name: Finder Card White
+      - name: justLook Card White
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
           options: username=shadowdara&repo=justLook
           path: profile/website/justLook-white.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Videoconverter White for the Website Projects
+      - name: Videoconverter Card White
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=shadowdara&repo=videoconverter
+          path: profile/website/videoconverter-white.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      # Path Viewer White for the Website Projects
+      - name: PathViewer Card White
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=shadowdara&repo=Path-Viewer
+          path: profile/website/path-white.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # Add the Cards to the Repo
