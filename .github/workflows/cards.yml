@@ -107,6 +107,15 @@ jobs:
           path: profile/website/path-white.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # 3ma-to-obj-converter White for the Website Projects
+      - name: 3ma-to-obj-converter Card White
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=shadowdara&repo=3ma-to-obj-converter-python
+          path: profile/website/3ma-to-obj-converter-white.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       # Add the Cards to the Repo
       - name: Commit cards
         run: |
