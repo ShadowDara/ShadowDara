@@ -72,11 +72,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       # 20 Stats for Card for the Website but without the top 10
-      - name: Generate top languages card 20
+      - name: Generate top languages card 20 without top 10
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&hide=markdown,json5,json,yaml,yml,mcfunction,cpp,java,go,python,typescript,javascript,html,css,rust
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=20&hide=markdown,json5,json,yaml,yml,mcfunction,cpp,cxx,c++,java,go,python,typescript,javascript,html,css,rust
           path: profile/website/top-langs-20-2.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
