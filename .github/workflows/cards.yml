@@ -143,6 +143,15 @@ jobs:
           path: profile/website/KeyValueParser-white.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Awesome Minecraft Tools Card
+      - name: Awesome Minecraft Tools White
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=shadowdara&repo=Awesome-Minecraft-Tools
+          path: profile/website/Awesome-Minecraft-Tools-white.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       # Add the Cards to the Repo
       - name: Commit cards
         run: |
