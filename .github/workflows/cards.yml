@@ -89,6 +89,15 @@ jobs:
           path: profile/website/finder-white.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # SX for the Website Projects
+      - name: SX Card White
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=shadowdara&repo=sx
+          path: profile/website/sx-white.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       # Videoconverter White for the Website Projects
       - name: Videoconverter Card White
         uses: readme-tools/github-readme-stats-action@v1
