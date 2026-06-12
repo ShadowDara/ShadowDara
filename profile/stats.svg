@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">ShadowDara's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 33, Total Commits  (last year) : 1138, Total PRs: 33, Total Issues: 1698, Contributed to (last year): 21</desc>
+        <desc id="descId">Total Stars Earned: 33, Total Commits  (last year) : 1177, Total PRs: 40, Total Issues: 1698, Contributed to (last year): 22</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 123.98501651538056;
+        stroke-dashoffset: 120.12451072913377;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >1.1k</text>
+      >1.2k</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >33</text>
+      >40</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >21</text>
+      >22</text>
     </g>
   </g>
     </svg>
