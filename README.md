@@ -4,11 +4,9 @@ I am a learning develeper, always searching for new projects,
 
 feel free to browse my projects or [contact me on discord for stuff](https://discord.com/users/843919195187183637) :)
 
-#### My Projects are listed [here](https://shadowdara.github.io/blog/2025/09/13/project-blog.html) and my **good projects [here](https://github.com/stars/ShadowDara/lists/favourite-projects)**
-
 ## I'm
 
-- 🌱 currently learning **making my own games**
+- 🌱 currently learning **making my own games**. I publish them on my [Itch.io site](https://shadowdara.itch.io).
 
 - 🔭 currently trying finish my projects ;)
 
@@ -21,7 +19,7 @@ feel free to browse my projects or [contact me on discord for stuff](https://dis
 ![Top Languages](./profile/top-langs.svg)
 <!-- ![Pinned](./profile/pin-readme-tools-github-readme-stats.svg) -->
 
-i will probably never update this
+i will probably never update this ;)
 
 <!--
 
