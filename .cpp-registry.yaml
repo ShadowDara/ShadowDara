@@ -24,3 +24,9 @@ repos:
     license: MIT
     language: C++
     cppstd: 20
+
+  cppm:
+    description: "package searcher and reader for cpp-registry"
+    license: MIT
+    language: C++
+    cppstd: 20
