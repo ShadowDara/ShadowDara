@@ -9,7 +9,10 @@ repos:
   colors-cpp:
     description: "all ansi colors as a header file"
     license: MIT
+    language: C++
 
   keyvalueparser:
     description: "a simple KeyValueParser Libary written in C++"
     license: MIT
+    language: C++
+    cppstd: 20
