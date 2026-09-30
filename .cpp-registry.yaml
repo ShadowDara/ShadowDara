@@ -1,0 +1,15 @@
+# Registry file
+
+repos:
+  argparser:
+    description: "little argparser libary in C, port of the argparser libary from finder in go"
+    license: MIT
+    language: C
+
+  colors-cpp:
+    description: "all ansi colors as a header file"
+    license: MIT
+
+  keyvalueparser:
+    description: "a simple KeyValueParser Libary written in C++"
+    license: MIT
