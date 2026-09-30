@@ -18,3 +18,9 @@ repos:
     license: MIT
     language: C++
     cppstd: 20
+
+  respack:
+    description: "Resource bundler into pack files for releases"
+    license: MIT
+    language: C++
+    cppstd: 20
