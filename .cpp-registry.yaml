@@ -5,11 +5,13 @@ repos:
     description: "little argparser libary in C, port of the argparser libary from finder in go"
     license: MIT
     language: C
+    libtype: "header+source"
 
   colors-cpp:
     description: "all ansi colors as a header file"
     license: MIT
     language: C++
+    libtype: "single-header"
 
   keyvalueparser:
     description: "a simple KeyValueParser Libary written in C++"
