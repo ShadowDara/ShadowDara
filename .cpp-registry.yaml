@@ -30,3 +30,6 @@ repos:
     license: MIT
     language: C++
     cppstd: 20
+
+likes:
+  - "glfw/glfw"
